@@ -1,0 +1,1816 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+<meta charset="utf-8">
+<link rel="shortcut icon" href="//ssl.suning.com/favicon.ico" type="image/x-icon">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="苏宁易购,苏宁易购网上商城,苏宁电器,苏宁云商,Suning,手机,电脑,冰箱,洗衣机,相机,数码,家居用品,鞋帽,化妆品,母婴用品,图书,食品,保险,旅行,充值,团购,正品行货,全国联保,货到付款。"/>
+<meta name="description" content="苏宁易购(Suning.com)网上商城 - 苏宁云商综合网上购物商城，销售传统家电、通讯数码、电脑、家居百货、服装服饰、母婴、图书、食品、保险、旅行、充值等数万类商品和服务。正品行货,全国联保,本地配送,货到付款。省钱放心上苏宁网上商城(原苏宁电器）,尽享购物乐趣！" />
+<title>苏宁易购(Suning)-苏宁云商网上商城,是领先的综合网上购物商城,正品行货,全国联保,货到付款</title>
+<meta name="apple-itunes-app" content="app-id=537508092">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<link rel="canonical" href="http://www.suning.com" />
+<meta property="wb:webmaster" content="3addc532fa0c656e" />
+<meta property="qc:admins" content="165746643563561676375" />
+<meta name="mobile-agent" content="format=html5;url=http://m.suning.com">
+<meta name="baidu-site-verification" content="x0HfZwVU6x" />
+<script type="text/javascript">
+;(function() {
+var isPc = function() {
+var userAgentInfo = navigator.userAgent;
+var Agents = new Array("Android", "iPhone", "SymbianOS", "Windows Phone", "iPad", "iPod");
+var flag = true;
+for (var v=0;v<Agents.length;v++) {
+if (userAgentInfo.indexOf(Agents[v]) > 0) {
+flag = false;
+break;
+}
+}
+return flag;
+}
+if (!isPc() && window.location.href.indexOf('towap=0') < 0) {
+var url = window.location.href;
+url = '//m.suning.com';
+window.location.href = url;
+}
+})();
+</script>
+<link rel="stylesheet" href="//res.suning.cn/public/v3/css/??v3common.min.css,search.min.css,sn-sidebar.min.css?2017040103">
+<link rel="stylesheet" type="text/css" href="//res.suning.cn/project/cmsWeb/suning/homepage/v6/css/index.css?2017040103"/>
+<script type="text/javascript">
+var sa=sa||{};var saExportUtil=saExportUtil||{};(function(){var l=/\.suning\.com/,s=(("https:"==document.location.protocol)?"https://":"http://"),a=u(),e=q(g()),b="|";var j=f(),k="",w="",v="-",d="",r="";var m=document.getElementById("URLPattern")||document.getElementById("CUrlPattern"),m=m?m.value:"";h();var t=function(){var x=0;var y=new Object();this.getThis=function(){return y};this.put=function(z,A){if(!this.containsKey(z)){x++}y[z]=A};this.get=function(z){if(this.containsKey(z)){return y[z]}else{return null}};this.remove=function(z){if(delete y[z]){x--}};this.containsKey=function(z){return(z in y)};this.containsValue=function(z){for(var A in y){if(y[A]==z){return true}}return false};this.values=function(){var z=new Array(x);for(var A in y){z.push(y[A])}return z};this.keys=function(){var z=new Array(x);for(var A in y){z.push(A)}return z};this.size=function(){return x}};function o(){var y=this;var D=1;var z=2;var B=3;var C=2;var A=new t();y.getAdExproMap=function(){return A};y.adverCarousel=function(E){y.sendExpoData(E,z,false)};y.adverClick=function(E){y.sendExpoData(E,z,true)};y.adverShow=function(E){y.sendExpoData(E,z,true)};y.sendCustomExpoData=function(F,E){y.sendExpoData(F,E)};y.sendExpoData=function(H,E,J){try{if(!H||H==""){return false}if(!J){J=false}if(E==z){if(J&&J==true){A=new t()}var G=H;var F=A.get(G);if(!F||F<=2){x(H,z);F=F+1;A.put(G,F);return true}return false}x(H,E)}catch(I){}};function x(H,E){var J=n();var I=q(H);var F=E;var G="/ajaxSiteExpro.gif?oId="+J+"&pvId="+j+"&expoInfo="+I+"&expoType="+F+"&pageUrl="+e+"&visitorId="+k+"&loginUserName="+w+"&memberID="+v+"&sessionId="+d+"&pageType="+r+"&hidUrlPattern="+m;i(G)}}function h(){var x=c("_snma");try{if(x!=undefined&&x!=null&&x.indexOf("|")>=0){try{k=x.split("|")[1]}catch(z){}}}catch(z){}var y=c("idsLoginUserIdLastTime");try{if(y!=undefined&&y!=null){w=q(y)}}catch(z){}v=c("custno")?c("custno"):"-";var A=c("_snmb");try{if(A!=undefined&&A!=null&&A.indexOf("|")>=0){d=A.split("|")[0]}}catch(z){}try{r=(r=document.getElementById("resourceType"))?r.value:"web"}catch(z){}}function f(){if(!sa.pvId){sa.pvId=n()}return sa.pvId}function n(){var y=new Date();var x=Math.round(100000*Math.random());var z=y.getTime().toString().concat(x);return z}function q(x){try{return null!=x?encodeURIComponent(x):""}catch(y){return""}}function g(){var z="-";try{var x=p();if(document.location.hash){z=document.location.href.substring(0,location.href.indexOf(x)-1)}else{z=document.location.href}}catch(y){}return z}function p(){var x=location.href.match(/#(.*)$/);return x?x[1]:""}function c(B){try{var x=document.cookie.split("; ");for(var y=0;y<x.length;y++){var A=x[y].split("=");if(A[0]==B){return unescape(A[1])}}}catch(z){return""}}function u(){if(l.test(document.location.hostname)){return"sa.suning.cn"}else{return"sasit.suning.cn"}}function i(z){z=s+a+z;var y="log_"+(new Date()).getTime();var x=window[y]=new Image();x.onload=(x.onerror=function(){window[y]=null});x.src=z+"&iId="+y;x=null}saExportUtil=new o()})();
+</script>
+</head>
+<body data-pageCode="homepage1">
+<script>
+// 全局变量
+var sn = sn || {
+"context": '/emall',
+"domain": 'www.suning.com',
+"cityId":'9173',
+"storeId": '10052',
+"catalogId": '10051',
+"categoryId": '10051',
+"memberDomain": 'member.suning.com',
+"online": 'online.suning.com',
+"cookieDomain": '.suning.com',
+"searchDomain": '//search.suning.com/emall/',
+"scriptDomianDir": '//imgssl.suning.com',
+"apsDomainUrl":"//th.suning.com",
+"smartDomain" :'//iss.suning.com',
+"productDomain" : '//product.suning.com',
+"imgHost": '//image.suning.cn',
+"isHome": true,
+"isNewHome":true,
+"noShowTopCms":true,
+"tuijianDomain" : "//tuijian.suning.com",
+"cssDomainImgUrl" : "//res.suning.cn",
+"cmsApiDomain" : "//lib.suning.com",
+"cmsLibDomain" : "//lib.suning.com",
+"icpsDomain":"//icps.suning.com",
+"isBack" : "",
+"favoriteDomain" : "//favorite.suning.com"
+};
+var previewTimes = "";
+// sidebar开关
+var sidebar_config = {
+cart: true,
+enable: true,
+member: true,
+message: false,
+fav: true,
+history: false
+};
+//宽窄屏切换
+var SCREEN = {};
+SCREEN.small = false;//750
+SCREEN.middle = false;//990
+SCREEN.large = false;//1190
+SCREEN.wider = false;//1690
+if (screen.width < 1190) {
+SCREEN.middle = true;
+} else {
+SCREEN.large = true;
+}
+var bigscreen = false;
+if ( screen.width>=1200 ) {
+bigscreen = true;
+var bodyTag = document.getElementsByTagName("body")[0],
+bodyClassName = bodyTag.getAttribute("className") || bodyTag.getAttribute("class");
+bodyClassName = bodyClassName ? bodyClassName+" " : "";
+bodyTag.className = bodyClassName+"root1200";
+}
+</script>
+<!-- 顶通开始 [[ -->
+<div id="__TOP_ACTIVE__" class="top-active">
+<!-- 开发给传2个高度，如果是顶通就传顶通高度，如果是富文本，就传富文本高度 -->
+<div id="TOP_ACTIVE_WRAP" class="top-active-wrap" style="height: px;" data-height=" px"></div>
+<a id="TOP_ACTIVE_BTN" class="btn" href="javascript:void(0);" title="关闭" name="index1_none_dtgg_gban04"></a>
+</div>
+<script>
+(function () {
+//获取cookie
+var strCookie = document.cookie,
+arrCookie = strCookie.split("; "),
+val = false;
+for (var i = 0, len = arrCookie.length; i < len; i++) {
+var arr = arrCookie[i].split("=");
+if ("topActiveStatus" == arr[0]) {
+val = arr[1];
+break;
+}
+}
+if (val) {
+document.getElementById('TOP_ACTIVE_WRAP').style.height = "0";
+document.getElementById('TOP_ACTIVE_BTN').className = "btn btn-open";
+document.getElementById('TOP_ACTIVE_BTN').setAttribute("title", "打开");
+document.getElementById('TOP_ACTIVE_BTN').setAttribute("name", "index1_none_dtgg_dkan05");
+}
+})();
+</script>
+<script type="text/javascript">
+var TOP_BANNER_DATA = {
+"99999":{"title":"手机","name":"index3_homepage1_32617812998_widscr02","bgColor":"#ffa600","link":"https://cuxiao.suning.com/c0405phone.html","picNarrow":"//image3.suning.cn/uimg/cms/img/149138573447312689.jpg","picWide":"//image3.suning.cn/uimg/cms/img/149138573618082178.jpg"}
+};
+</script>
+<script type="text/javascript">
+function loadBanner(){
+if(typeof TOP_BANNER_DATA != "undefined"){
+var bannerData;
+var cityId=getBannerCookie("cityId");
+if(cityId in TOP_BANNER_DATA){
+bannerData=TOP_BANNER_DATA[cityId];
+}else if("99999" in TOP_BANNER_DATA){
+bannerData=TOP_BANNER_DATA[99999];
+}
+if(bannerData!=null){
+var picWide, picNarrow, picWideBg, picNarrowBg, nameWide, nameNarrow, titleWide, titleNarrow, hrefWide, hrefNarrow;
+picWide = bannerData.picWide;
+picWideBg = bannerData.bgColor;
+nameWide = bannerData.name;
+titleWide = bannerData.title;
+hrefWide = bannerData.link;
+picNarrow = bannerData.picNarrow;
+picNarrowBg = bannerData.bgColor;
+nameNarrow = bannerData.name;
+titleNarrow = bannerData.title;
+hrefNarrow = bannerData.link;
+var screenFlag = (SCREEN.large || SCREEN.wider) ? true : false;//判断宽屏或窄屏
+var tem = [
+{name: screenFlag ? nameWide : nameNarrow, href: screenFlag ? hrefWide : hrefNarrow, src: screenFlag ? picWide : picNarrow, title: screenFlag ? titleWide : titleNarrow, bg: screenFlag ? picWideBg : picNarrowBg}
+],
+topName = tem[0].name,
+topHref = tem[0].href,
+topSrc = tem[0].src,
+topTitle = tem[0].title,
+topBg = tem[0].bg;
+var html = '<a name="' + topName + '" target="_blank" title="' + topTitle + '" href="' + topHref + '">';
+html += '<img lazy-src="' + topSrc + '" />';
+html += '</a>';
+document.getElementById('TOP_ACTIVE_WRAP').innerHTML = html;
+document.getElementById('TOP_ACTIVE_WRAP').style.background = topBg;
+}
+}
+}
+function getBannerCookie (b) {
+var a;
+return (a = document.cookie.match(RegExp("(^| )" + b + "=([^;]*)(;|$)"))) ? decodeURIComponent(a[2]
+.replace(/\+/g, "%20"))
+: null
+};
+loadBanner();
+</script>
+<!-- 顶通结束 ]] -->
+<!--tool bar [[-->
+<div id="_TOP_BANNER_" class="ng-top-banner"></div>
+<div class="ng-toolbar">
+<div class="ng-toolbar-con wrapper">
+<div class="ng-toolbar-left">
+<a href="//www.suning.com" class="ng-bar-node ng-bar-node-backhome" id="ng-bar-node-backhome" name="public0_none_dbgjt_fhyisy01">
+<i class="ng-iconfont ng-backhome">&#xe640;</i><span>返回易购首页</span>
+<i class="ng-line ng-iconfont ml10">&#xe628;</i>
+</a>
+<script type="text/javascript">
+if (!sn.isHome){document.getElementById('ng-bar-node-backhome').style.display = "block";};
+</script>
+<!--网站导航 [[-->
+<div class="ng-bar-node-box ng-site-nav-box">
+<a href="javascript:void(0);" class="ng-bar-node ng-bar-node-site" name="public0_none_dbgjt_wzdh03">
+<span>网站导航</span><em class="ng-iconfont down">&#xe62e;</em>
+</a>
+<div class="ng-sn-site-nav ng-d-box site-nav-child" style="display:none;">
+<dl class="sn-site-list lnb">
+<dt>
+特色购物
+</dt>
+<dd>
+<p><a name="public0_none_dbgjt_wzdh030101" href="//10035.suning.com/" target="_blank">苏宁互联</a></p>
+<p><a name="public0_none_dbgjt_wzdh030110" href="http://sale.suning.com/syb/pcdr/index.html" target="_blank">苏宁达人</a></p>
+<p><a name="public0_none_dbgjt_wzdh030102" href="//vbuy.suning.com/vbuyCity.html" target="_blank">苏宁V购</a></p>
+<p><a name="public0_none_dbgjt_wzdh030103" href="//ka.suning.com/" target="_blank">苏宁卡</a></p>
+<p><a name="public0_none_dbgjt_wzdh030104" href="//g.suning.com/" target="_blank">海外购</a></p>
+<p><a name="public0_none_dbgjt_wzdh030105" href="//b.suning.com/" target="_blank">企业采购</a></p>
+<p><a name="public0_none_dbgjt_wzdh030106" href="//ju.suning.com" target="_blank">大聚惠<i class="hot"></i></a></p>
+<p><a name="public0_none_dbgjt_wzdh030107" href="http://try.suning.com/" target="_blank">免费试用</a></p>
+<p><a name="public0_none_dbgjt_wzdh030108" href="http://tv.suning.com/" target="_blank">视频购物</a></p>
+<p><a name="public0_none_dbgjt_wzdh030111" href="http://sale.suning.com/images/advertise/mdr/oabangong526/index.html" target="_blank">办公直通车</a></p>
+<p><a name="public0_none_dbgjt_wzdh030112" href="//hx.suning.com/" target="_blank">以旧换新</a></p>
+<!-- <p><a name="public0_none_dbgjt_wzdh030113" href="http://yushou.suning.com" target="_blank">预售</a></p> -->
+<p><a name="public0_none_dbgjt_wzdh030114" href="//new.suning.com" target="_blank">新发现</a></p>
+<p><a name="public0_none_dbgjt_wzdh030115" href="//2.suning.com" target="_blank">二手优品</a></p>
+<p><a name="public0_none_dbgjt_wzdh030116" href="//quan.suning.com/lq_1.htm" target="_blank">领券中心</a></p>
+</dd>
+</dl>
+<dl class="sn-site-list">
+<dt>
+主题频道
+</dt>
+<dd>
+<p><a name="public0_none_dbgjt_wzdh030201" href="//dianqi.suning.com/" target="_blank">电器城</a></p>
+<p><a name="public0_none_dbgjt_wzdh030202" href="//chaoshi.suning.com/" target="_blank">苏宁超市</a></p>
+<p><a name="public0_none_dbgjt_wzdh030203" href="//shouji.suning.com/" target="_blank">手机</a></p>
+<p><a name="public0_none_dbgjt_wzdh030204" href="//sports.suning.com/" target="_blank">运动馆</a></p>
+<p><a name="public0_none_dbgjt_wzdh030205" href="//book.suning.com/" target="_blank">图书</a></p>
+<p><a name="public0_none_dbgjt_wzdh030207" href="//redbaby.suning.com/" target="_blank">红孩子母婴</a></p>
+<p><a name="public0_none_dbgjt_wzdh030208" href="//binggo.suning.com/" target="_blank">美妆个护</a></p>
+<p><a name="public0_none_dbgjt_wzdh030209" href="//pindao.suning.com/city/diannao.htm" target="_blank">电脑</a></p>
+<p><a name="public0_none_dbgjt_wzdh030210" href="//fashion.suning.com/" target="_blank">服装城</a></p>
+<p><a name="public0_none_dbgjt_wzdh030213" href="//smarthome.suning.com/" target="_blank">智能生活</a></p>
+<p><a name="public0_none_dbgjt_wzdh030214" href="//pindao.suning.com/city/jiazhuang.htm" target="_blank">家装馆</a></p>
+<p><a name="public0_none_dbgjt_wzdh030215" href="//car.suning.com/qichenew.html" target="_blank">汽车用品</a></p>
+<p><a name="public0_none_dbgjt_wzdh030216" href="http://re.suning.com/" target="_blank">苏宁热卖<i class="hot"></i></a>
+</p>
+<p><a name="public0_none_dbgjt_wzdh030217" href="http://rec.suning.com/show/rank.htm" target="_blank">排行榜</a></p>
+</dd>
+</dl>
+<dl class="sn-site-list">
+<dt>
+生活助手
+</dt>
+<dd>
+<p><a name="public0_none_dbgjt_wzdh030301" href="https://passport.suning.com/ids/trustLogin?sysCode=epp&amp;targetUrl=https://licai.suning.com/bof/bofIndex.htm" target="_blank">苏宁零钱宝<i class="hot"></i></a></p>
+<p><a name="public0_none_dbgjt_wzdh030302" href="//chong.suning.com/eppscrp/mobile/fill.htm" target="_blank">手机充值</a></p>
+<p><a name="public0_none_dbgjt_wzdh030303" href="http://hcp.suning.com/" target="_blank">火车票</a></p>
+<p><a name="public0_none_dbgjt_wzdh030304" href="//sh.suning.com/life/at/memtrans!input.action" target="_blank">转账还款</a></p>
+<p><a name="public0_none_dbgjt_wzdh030305" href="//assss.suning.com/assss-web/pc/appointService/queryAppointService.do" target="_blank">约服务</a></p>
+<p><a name="public0_none_dbgjt_wzdh030306" href="http://sh.suning.com/life/2-1.html" target="_blank">水电煤</a></p>
+<p><a name="public0_none_dbgjt_wzdh030307" href="http://baoxian.suning.com/ins/index.htm" target="_blank">保险</a></p>
+<!-- <p><a name="public0_none_dbgjt_wzdh030308" href="http://caipiao.suning.com/" target="_blank">彩票</a></p> -->
+<p><a name="public0_none_dbgjt_wzdh030309" href="http://jipiao.suning.com/" target="_blank">机票</a></p>
+<p><a name="public0_none_dbgjt_wzdh030509" href="//vbuy.suning.com/vbuyCity.html" target="_blank">门店查询</a></p>
+</dd>
+</dl>
+<dl class="sn-site-list">
+<dt>
+会员服务
+</dt>
+<dd>
+<p><a name="public0_none_dbgjt_wzdh030401" href="//vip.suning.com" target="_blank"><span>会员联盟</span><i class="hot"></i></a></p>
+<p><a name="public0_none_dbgjt_wzdh030402" href="http://club.suning.com/" target="_blank">苏宁社区</a></p>
+<p><a name="public0_none_dbgjt_wzdh030403" href="http://baoxian.suning.com/ins/jiaDian.htm" target="_blank">延长保修</a></p>
+<p><a name="public0_none_dbgjt_wzdh030404" href="http://snbook.suning.com/web/index.htm" target="_blank">免费书城</a></p>
+<p><a name="public0_none_dbgjt_wzdh030405" href="https://passport.suning.com/ids/trustLogin?sysCode=epp&targetUrl=https://pay.suning.com/epp-epw/login/login.action" target="_blank">易付宝</a></p>
+<p><a name="public0_none_dbgjt_wzdh030407" href="https://passport.suning.com/ids/trustLogin?sysCode=epp&amp;targetUrl=https://licai.suning.com/bof/licaiIndex.htm" target="_blank">苏宁理财</a></p>
+<p><a name="public0_none_dbgjt_wzdh030406" href="//jinrong.suning.com" target="_blank">苏宁金融</a></p>
+</dd>
+</dl>
+<dl class="sn-site-list rnb">
+<dt>
+更多热点
+</dt>
+<dd>
+<p><a name="public0_none_dbgjt_wzdh030503" href="http://www.pptv.com/" target="_blank">PPTV</a></p>
+<p><a name="public0_none_dbgjt_wzdh030504" href="http://sale.suning.com/syb/20120419xsjkhd/index.html" target="_blank">客户端</a></p>
+<p><a name="public0_none_dbgjt_wzdh030505" href="//sop.suning.com/" target="_blank">商家入驻<i class="hot"></i></a></p>
+<!-- <p><a name="public0_none_dbgjt_wzdh030506" href="http://pan.suning.com/cloud-web/web2/cloud.html" target="_blank">苏宁云盘</a></p> -->
+<p><a name="public0_none_dbgjt_wzdh030507" href="//sncs.suning.com/" target="_blank">苏宁众包</a></p>
+<p><a name="public0_none_dbgjt_wzdh030508" href="//union.suning.com/" target="_blank">苏宁联盟</a></p>
+<p><a name="public0_none_dbgjt_wzdh030510" href="http://ued.suning.com/survey/" target="_blank">用户体验</a></p>
+<p><a name="public0_none_dbgjt_wzdh030511" href="http://gongyi.suning.com" target="_blank">公益频道</a></p>
+<p><a name="public0_none_dbgjt_wzdh030509" href="http://guang.suning.com/student/agent/join/first.htm" target="_blank">校园先锋</a></p>
+<p><a name="public0_none_dbgjt_wzdh030512" href="http://jiameng.suning.com/home.action" target="_blank">苏宁加盟</a></p>
+<p><a name="public0_none_dbgjt_wzdh030513" href="http://www.suningcloud.com/" target="_blank">苏宁云</a></p>
+<p><a name="public0_none_dbgjt_wzdh030514" href="//fc.suning.com/" target="_blank">苏宁足球</a></p>
+</dd>
+</dl>
+<a href="javascript:void(0);" class="ng-close" name="public0_none_dbgjt_wzdh030516"><em class="ng-iconfont">&#xe627;</em></a>
+</div>
+</div>
+<div class="ng-bar-node-box shop-handle">
+<a href="//sop.suning.com/sel/sic/showSwlIndex.htm" class="ng-bar-node ng-bar-node-pr5 ng-bar-node-shop touch-href" name="public0_none_dbgjt_sjrz01" target="_blank"><span>商家入驻</span><em class="ng-iconfont down">&#xe62e;</em></a>
+<div class="ng-down-box ng-d-box shop-center-child ng-ser-list" style="display:none;">
+<a href="//fuwu.suning.com/" rel="nofollow" target="_blank" name="public0_none_xdbgjt_sjrz02">服务市场</a>
+<a href="//qyjr.suning.com/" rel="nofollow" target="_blank" name="public0_none_xdbgjt_sjrz03">金融中心</a>
+<a href="http://sopbbs.suning.com/forum.php" rel="nofollow" target="_blank" name="public0_none_xdbgjt_sjrz04">商家论坛</a>
+<a href="http://stc.suning.com/" rel="nofollow" target="_blank" name="public0_none_xdbgjt_sjrz06">培训中心</a>
+<a href="//ap.suning.com/aps-sale-web/auth/advertise.htm" rel="nofollow" target="_blank" name="public0_none_xdbgjt_sjrz07">增值服务</a>
+</div>
+</div>
+<!--网站导航 ]]-->
+<!-- 消息 [[ -->
+<!-- <div class="ng-bar-node-box ng-msg-box">
+<a href="//msg.suning.com/" class="ng-bar-node ng-bar-node-msg" name="public0_none_dbgjt_wdxx01" target="_blank">
+<span>消息<i class="ng-iconfont dot"></i></span><em class="ng-iconfont down">&#xe62e;</em>
+</a>
+<div class="ng-d-box ng-msg-child" style="display:none;">
+<div class="ng-msg-list">
+<div class="ng-msg-item ng-msg-item-no">
+<i></i><span>嗷~ 没有新消息...</span>
+</div>
+</div>
+<div class="ng-msg-bottom"><a href="//msg.suning.com/" name="public0_none_dbgjt_wdxx01" target="_blank">查看更多</a></div>
+</div>
+</div> -->
+<!-- 消息 ]] -->
+</div>
+<div class="ng-toolbar-right">
+<!-- 登录注册 -->
+<a href="javascript:void(0)" class="ng-bar-node username-bar-node username-bar-node-showside" id="username-node" rel="nofollow" style="display:none;">
+<span id="usernameHtml01"></span>
+<em class="hasmsg ng-iconfont">&#xe637;</em>
+</a>
+<div class="ng-bar-node-box username-handle" id="username-node-slide" style="display:none;">
+<a href="//my.suning.com" rel="nofollow" class="ng-bar-node username-bar-node username-bar-node-noside">
+<span id="usernameHtml02"></span>
+<em class="hasmsg ng-iconfont">&#xe637;</em>
+<em class="ng-iconfont down">&#xe62e;</em>
+</a>
+<div class="ng-d-box ng-down-box ng-username-slide" style="display:none;">
+<a href="//my.suning.com/person.do" class="ng-vip-union" target="_blank" rel="nofollow">账号管理</a>
+<a href="javascript:SFE.base.logoff();" rel="nofollow">退出登录</a>
+</div>
+</div>
+<div class="ng-bar-node reg-bar-node" id="reg-bar-node">
+<a href="javascript:SFE.base.logonurl();" name="public0_none_dbgjt_login0800" rel="nofollow" class="login">登录</a>
+<a href="https://reg.suning.com/person.do" target="_blank" class="login reg-bbb" rel="nofollow" name="public0_none_dbgjt_register09">注册</a>
+</div>
+<script type="text/javascript">
+function d(b) {
+var a;
+return (a = document.cookie.match(RegExp("(^| )" + b + "=([^;]*)(;|$)"))) ? decodeURIComponent(a[2]
+.replace(/\+/g, "%20"))
+: null
+};
+var uernameA = d("logonStatus");
+var usernameNode = document.getElementById('username-node');
+var usernameNodeSlide = document.getElementById('username-node-slide');
+var usernameHtml01 = document.getElementById('usernameHtml01') , usernameHtml02 = document.getElementById('usernameHtml02');
+var regBarNode = document.getElementById('reg-bar-node');
+if (uernameA != null && uernameA != "") {
+var uernameC = d("nick");
+// if( ((window.sidebar_config && sidebar_config.enable)||sn.hasSidebar) && !sn.hasNewSidebar ){
+// usernameNode.style.display = "block";
+// }else{
+usernameNodeSlide.style.display = "block";
+//}
+usernameHtml01.innerHTML = uernameC;
+usernameHtml02.innerHTML = uernameC;
+regBarNode.style.display = "none";
+}else{
+usernameNode.style.display = "none";
+usernameNodeSlide.style.display = "none";
+usernameHtml01.innerHTML = " ";
+usernameHtml02.innerHTML = " ";
+regBarNode.style.display = "block";
+}
+</script>
+<!-- <i class="ng-line ng-iconfont">&#xe628;</i> -->
+<!--我的订单 [[-->
+<div class="ng-bar-node-box myorder-handle">
+<a href="//order.suning.com/onlineOrder/orderList.do" rel="nofollow" name="public0_none_dbgjt_order04" class="ng-bar-node ng-bar-node-fix touch-href ng-bar-node-pr5"><span>我的订单</span><em class="ng-iconfont down">&#xe62e;</em></a>
+<div class="ng-down-box ng-d-box myorder-child" style="display:none;">
+<a href="//order.suning.com/onlineOrder/orderList.do?transStatus=waitPay" rel="nofollow" name="public0_none_dbgjt_order0401">待支付<em id="waitPayCounts"></em></a>
+<a href="//order.suning.com/onlineOrder/orderList.do?transStatus=waitReceive" rel="nofollow" name="public0_none_dbgjt_order0402">待收货<em id="waitDeliveryCounts"></em></a>
+<a href="//review.suning.com/my_cmmdty_review.do" rel="nofollow" name="public0_none_dbgjt_order0403">待评价<em id="waitEvaluation"></em></a>
+<a href="//assss.suning.com/assss-web/pc/modify/toModifyOrderList.do" rel="nofollow" name="public0_none_dbgjt_order0404">修改订单</a>
+</div>
+</div>
+<!--我的订单 ]]-->
+<!--我的易购 [[-->
+<div class="ng-bar-node-box mysuning-handle">
+<a href="//my.suning.com" rel="nofollow" name="public0_none_xdbgjt_wdyg01" class="ng-bar-node ng-bar-node-fix touch-href ng-bar-node-pr5"><span>我的易购</span><em class="ng-iconfont down">&#xe62e;</em></a>
+<div class="ng-down-box ng-d-box mysuning-child" style="display:none;">
+<div class="mysuning-infor clearfix">
+<a name="public0_none_xdbgjt_wdyg02" target="_blank" href="//my.suning.com/person.do?targetTab=head" class="headimg"><img src3="//image.suning.cn/uimg/cmf/cust_headpic/0000000000_01_60x60.jpg" alt="" id="userHead" /></a>
+<div class="mysuning-detail">
+<a name="public0_none_xdbgjt_wdyg03" href="javascript:SFE.base.logonurl();" class="login" >请登录</a>
+<a name="public0_none_xdbgjt_wdyg04" href="//my.suning.com" rel="nofollow" class="username" id="userNickname">141******13</a>
+<a href="https://sign.suning.com/sign/welcome.do" rel="nofollow" name="public0_none_xdbgjt_wdyg05" class="daka">点击打卡</a>
+</div>
+</div>
+<a href="//2.suning.com/myOrder/queryMyOrders.do" name="public0_none_xdbgjt_wdyg06" rel="nofollow" target="_blank">我的二手</a>
+<a href="//favorite.suning.com/myFavoriteImg.do" rel="nofollow" name="public0_none_xdbgjt_wdyg07" target="_blank">我的收藏</a>
+<a href="https://passport.suning.com/ids/trustLogin?sysCode=epp&targetUrl=http://my.jr.suning.com/sfp/accountAssets/index.htm" rel="nofollow" name="public0_none_xdbgjt_wdyg08" target="_blank">我的金融</a>
+<a href="//vip.suning.com" class="ng-vip-union" target="_blank" rel="nofollow" name="public0_none_xdbgjt_wdyg09">苏宁会员<em class="ng-iconfont">&#xe6ac;</em></a>
+<a href="https://rxf.suning.com/epps-cpf/accountMgt/assetOverview.do" rel="nofollow" name="public0_none_xdbgjt_wdyg10">我的任性付</a>
+<a href="//quan.suning.com/yhq.do" rel="nofollow" name="public0_none_xdbgjt_wdyg11">我的优惠券</a>
+</div>
+</div>
+<!--我的易购 ]]-->
+<!-- 购物车 -->
+<a class="ng-bar-node ng-bar-node-mini-cart" name="public0_none_minicart_gouwclj" rel="nofollow" href="http://shopping.suning.com/cart.do">
+<em class="ng-iconfont cart">&#xe623;</em><span>购物车</span>
+<span class="total-num-box" id="J_total_num_box">
+<b class="total-num J_cart_total_num" id="showTotalQty">0</b>
+<span class="total-num-bg-box">
+<em></em>
+<i></i>
+</span>
+</span>
+</a>
+<script type="text/javascript">
+var ngCartNum = d("totalProdQty");
+ngCartNum = ( ngCartNum ==0 || ngCartNum == null )?0:ngCartNum;
+ngCartNum = ngCartNum>99?'99+':ngCartNum;
+document.getElementById('showTotalQty').innerHTML = ngCartNum;
+</script>
+<!--手机苏宁 [[-->
+<div class="ng-bar-node-box app-down-box">
+<a href="//cuxiao.suning.com/newUser.html" target="_blank" name="public0_none_xdbgjt_sjsn01" rel="nofollow" class="ng-bar-node mb-suning touch-href">
+<em class="ng-iconfont mb">&#xe604;</em><span>手机苏宁</span><em class="ng-iconfont down">&#xe62e;</em>
+</a>
+<div class="ng-mb-box ng-d-box mb-down-child" style="display:none;">
+<ul class="ng-app-code">
+<li>
+<img class="top-code" src3="//res.suning.cn/public/v3/images/sn-top-code.png?var=01" alt="苏宁易购APP"/>
+<p>下载苏宁易购APP</p>
+<img class="aoyun-text" src3="//res.suning.cn/public/v3/images/aoyun-text.jpg?var=01" alt="">
+</li>
+<li>
+<img class="top-code" src3="//res.suning.cn/public/v3/images/yfb-top-code.png?var=01" alt="易付宝APP"/>
+<p>扫一扫</p>
+<p>下载苏宁金融APP</p>
+</li>
+</ul>
+<div class="line"></div>
+<!-- <ul class="ng-app-list">
+<li>
+<a href="https://passport.suning.com/ids/trustLogin?sysCode=epp&targetUrl=https://pay.suning.com/epp-epw/login/login.action" name="public0_none_xdbgjt_sjsn02" title="易付宝钱包"><img src3="" alt="易付宝钱包"/><p>易付宝钱包</p></a>
+</li>
+<li>
+<a href="http://app.pptv.com/pg_get_clt" name="public0_none_xdbgjt_sjsn03" title="PPTV"><img src3="" alt="PPTV"/><p>PPTV</p></a>
+</li>
+<li>
+<a href="http://sale.suning.com/syb/yinliuye0512/index.html" name="public0_none_xdbgjt_sjsn04" title="苏宁阅读"><img src3="" alt="苏宁阅读"/><p>苏宁阅读</p></a>
+</li>
+</ul> -->
+</div>
+</div>
+<!--手机苏宁 ]]-->
+<a href="https://passport.suning.com/ids/trustLogin?sysCode=epp&targetUrl=https://pay.suning.com/epp-epw/login/login.action" name="public0_none_dbgjt_yfb06" class="ng-bar-node ng-bar-node-pr5" target="_blank"><span>易付宝</span></a>
+<a href="//b.suning.com/" class="ng-bar-node ng-bar-node-pr5" name="public0_none_dbgjt_qypd01" target="_blank"><span>企业采购</span></a>
+<!--服务中心 [[-->
+<div class="ng-bar-node-box service-handle">
+<a href="javascript:void(0);" class="ng-bar-node ng-bar-node-service ng-bar-node-fix touch-href ng-bar-node-pr5" rel="nofollow" name="public0_none_xdbgjt_khfw01"><span>客户服务</span><em class="ng-iconfont down">&#xe62e;</em>
+</a>
+<div class="ng-down-box ng-d-box service-center-child ng-ser-list" style="display:none;">
+<a href="//help.suning.com" rel="nofollow" target="_blank" name="public0_none_xdbgjt_khfw02">帮助中心</a>
+<a href="//assss.suning.com/assss-web/pc/appointService/queryAppointService.do" rel="nofollow" target="_blank" name="public0_none_xdbgjt_khfw03">帮客预约</a>
+<a href="//vbuy.suning.com/vbuyCity.html" rel="nofollow" target="_blank" name="public0_none_xdbgjt_khfw04">查找门店</a>
+<!-- <a href="" target="_blank" name="public0_none_xdbgjt_khfw05">投诉</a> -->
+<a href="//assss.suning.com/assss-web/pc/returnGoods/toAfterSaleApplyList.do" rel="nofollow" name="public0_none_xdbgjt_khfw06" target="_blank">退换/维修</a>
+<a href="//s.suning.com" rel="nofollow" name="public0_none_xdbgjt_khfw07" target="_blank">建议反馈</a>
+<a href="javascript:findpass();" rel="nofollow" name="public0_none_xdbgjt_khfw08"><span>在线咨询</span><em class="ng-iconfont">&#xe631;</em></a>
+</div>
+</div>
+<!--服务中心 ]]-->
+</div>
+<div id="ng-minicart-slide-box"></div>
+</div>
+</div>
+<!--tool bar ]]-->
+<!--header [[-->
+<div class="index-header">
+<div class="bg-container" style="background:">
+<img alt="" height="100" src="//image5.suning.cn/uimg/cms/img/149106501088173854.jpg" width="1920">
+<style>
+.index-header .bg-container {
+overflow:hidden;
+background: #e30724;
+}
+.index-header .bg-container img{
+position:absolute;
+left: 50%;
+margin-left:-960px;
+display:block;
+width: 1920px;
+height: 100px;
+}
+.ng-nav-index ul.ng-nav li a{color:#FFF!important;}
+.g-search-hotwords a{color:#FFF!important;}
+</style>
+</div>
+<div class="ng-header-con">
+<!--促销图片维护]]-->
+<div class="ng-header-box">
+<a href="http://www.suning.com/" name="index3_homepage1_32617813020_pic01" class="logo-set" title="反白小狮子">
+<img alt="反白小狮子" src="//image4.suning.cn/uimg/cms/img/149106414920965871.png">
+</a>
+<a class="ng-gif-logo" target="_blank" name="index3_homepage1_32617813000_pic01" href="https://cuxiao.suning.com/c0405phone.html"><img src="//script.suning.cn/images/ShoppingArea/Common/blank.gif" src3="//image4.suning.cn/uimg/cms/img/149138419788274463.gif"></a>
+</div>
+<div class="ng-search">
+<!-- PRFLS SEARCH -->
+<div class="g-search">
+<i class="ng-iconfont search-icon">&#xe619;</i>
+<form method="get" onsubmit="return SFE.search.onSubmitSearch(this)">
+<div class="search-keyword-box">
+<input tabindex="0" id="searchKeywords" type="text" class="search-keyword" name="index1_none_search_ss2" value="" autocomplete="off" />
+</div>
+<input id="searchSubmit" type="submit" class="search-btn" name="index1_none_search_ss1" value="搜索"/>
+<div id="snKeywordNew" class="g-search-hotwords"></div>
+</form>
+<div id="ac_results" class="g-ac-results hide"></div>
+<div id="rec_results" class="g-rec-results hide">
+<ul class="history-results"></ul>
+<ul class="rec-results"></ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!--header ]]-->
+<!--sort & nav [[-->
+<div class="ng-nav-bar">
+<div class="ng-nav-bar-img" style="background: #e30724;">
+<img lazy-src="//image3.suning.cn/uimg/cms/img/149106424441837333.jpg" alt="目录背景">
+</div>
+<div class="ng-sort ng-sort-index">
+<a class="ng-all-hook" href="http://as.suning.com/allsort.htm" target="_blank" name="index3_homepage1_button_qbspfl">
+<i></i>
+<span>全部商品分类</span>
+</a>
+<div class="index-sort-list-box">
+<div class="nav-cover"></div>
+<ul class="index-list">
+<li class="hei33">
+<i class="ng-iconfont">&#xe6b0;</i>
+<a target="_blank" name="index3_homepage1_32617813004_word01" href="https://shouji.suning.com/">手机</a><em>/</em>
+<a target="_blank" name="index3_homepage1_32617813004_word02" href="https://yys.suning.com/">运营商</a><em>/</em>
+<a target="_blank" name="index3_homepage1_32617813004_word03" href="https://pindao.suning.com/city/zhinengshuma.html">智能数码</a>
+</li>
+<li class="hei33">
+<i class="ng-iconfont">&#xe6b5;</i>
+<a target="_blank" name="index3_homepage1_32617813005_word01" href="https://pindao.suning.com/city/caidian.html">电视</a><em>/</em>
+<a target="_blank" name="index3_homepage1_32617813005_word02" href="https://pindao.suning.com/city/kongtiao.html">空调</a><em>/</em>
+<a target="_blank" name="index3_homepage1_32617813005_word03" href="https://pindao.suning.com/city/bingxi.html">冰箱</a><em>/</em>
+<a target="_blank" name="index3_homepage1_32617813005_word04" href="https://pindao.suning.com/city/bingxi.html">洗衣机</a>
+</li>
+<li class="hei33">
+<i class="ng-iconfont">&#xe6b4;</i>
+<a target="_blank" name="index3_homepage1_32617813006_word01" href="https://pindao.suning.com/city/chuwei.html">厨卫电器</a><em>/</em>
+<a target="_blank" name="index3_homepage1_32617813006_word02" href="https://pindao.suning.com/city/xiaojiadian.html">生活电器</a><em>/</em>
+<a target="_blank" name="index3_homepage1_32617813006_word03" href="https://pindao.suning.com/city/chuiju.html">厨具</a>
+</li>
+<li class="hei33">
+<i class="ng-iconfont">&#xe6bc;</i>
+<a target="_blank" name="index3_homepage1_32617813007_word01" href="https://pindao.suning.com/city/diannao.html">电脑办公</a><em>/</em>
+<a target="_blank" name="index3_homepage1_32617813007_word02" href="https://pindao.suning.com/city/shuma.htm">相机</a><em>/</em>
+<a target="_blank" name="index3_homepage1_32617813007_word03" href="https://list.suning.com/0-20529-0.html">DIY</a>
+</li>
+<li>
+<i class="ng-iconfont">&#xe6b1;</i>
+<a target="_blank" name="index3_homepage1_32617813008_word01" href="https://pindao.suning.com/city/jujiajiafang.html">家居</a><em>/</em>
+<a target="_blank" name="index3_homepage1_32617813008_word02" href="https://pindao.suning.com/city/jiajuguan.html">家具</a><em>/</em>
+<a target="_blank" name="index3_homepage1_32617813008_word03" href="https://pindao.suning.com/city/jiancai.html">家装</a>
+</li>
+<li>
+<i class="ng-iconfont">&#xe6b2;</i>
+<a target="_blank" name="index3_homepage1_32617813009_word01" href="https://pindao.suning.com/city/shipinliangyou.html">食品</a><em>/</em>
+<a target="_blank" name="index3_homepage1_32617813009_word02" href="https://pindao.suning.com/city/jiushuichongtiao.html">酒水</a><em>/</em>
+<a target="_blank" name="index3_homepage1_32617813009_word03" href="https://sxs.suning.com/sxspc_huadong.html">生鲜</a><em>/</em>
+<a target="_blank" name="index3_homepage1_32617813009_word04" href="https://china.suning.com/">特产</a>
+</li>
+<li>
+<i class="ng-iconfont">&#xe6b9;</i>
+<a target="_blank" name="index3_homepage1_32617813010_word01" href="https://binggo.suning.com/">个护化妆</a><em>/</em>
+<a target="_blank" name="index3_homepage1_32617813010_word02" href="https://chaoshi.suning.com/">纸品清洁</a><em>/</em>
+<a target="_blank" name="index3_homepage1_32617813010_word03" href="https://list.suning.com/0-500552-0.html">宠物</a>
+</li>
+<li>
+<i class="ng-iconfont">&#xe6b8;</i>
+<a target="_blank" name="index3_homepage1_32617813011_word01" href="https://redbaby.suning.com/">母婴</a><em>/</em>
+<a target="_blank" name="index3_homepage1_32617813011_word02" href="https://pindao.suning.com/city/mywanju.html">玩具</a><em>/</em>
+<a target="_blank" name="index3_homepage1_32617813011_word03" href="https://pindao.suning.com/city/tccpindaoye.html">车床</a><em>/</em>
+<a target="_blank" name="index3_homepage1_32617813011_word04" href="https://redbaby.suning.com/tztxpdycqd.html">童装</a>
+</li>
+<li>
+<i class="ng-iconfont">&#xe6b6;</i>
+<a target="_blank" name="index3_homepage1_32617813012_word01" href="https://sports.suning.com/">运动</a><em>/</em>
+<a target="_blank" name="index3_homepage1_32617813012_word02" href="https://list.suning.com/0-420008-0.html">户外</a><em>/</em>
+<a target="_blank" name="index3_homepage1_32617813012_word03" href="https://snfc.suning.com/">足球</a>
+</li>
+<li>
+<i class="ng-iconfont">&#xe6af;</i>
+<a target="_blank" name="index3_homepage1_32617813013_word01" href="https://fashion.suning.com/">男装</a><em>/</em>
+<a target="_blank" name="index3_homepage1_32617813013_word02" href="https://list.suning.com/0-161007-0.html">女装</a><em>/</em>
+<a target="_blank" name="index3_homepage1_32617813013_word03" href="https://fashion.suning.com/">内衣</a>
+</li>
+<li>
+<i class="ng-iconfont">&#xe6b7;</i>
+<a target="_blank" name="index3_homepage1_32617813014_word01" href="https://fashion.suning.com/">鞋靴</a><em>/</em>
+<a target="_blank" name="index3_homepage1_32617813014_word02" href="https://pindao.suning.com/city/xiangbao.html">箱包</a><em>/</em>
+<a target="_blank" name="index3_homepage1_32617813014_word03" href="https://pindao.suning.com/city/zhongbiaoyanjing.html">钟表</a><em>/</em>
+<a target="_blank" name="index3_homepage1_32617813014_word04" href="https://pindao.suning.com/city/zhubao.html">珠宝</a>
+</li>
+<li>
+<i class="ng-iconfont">&#xe6ba;</i>
+<a target="_blank" name="index3_homepage1_32617813015_word01" href="https://car.suning.com/qichenew.html">汽车</a><em>/</em>
+<a target="_blank" name="index3_homepage1_32617813015_word02" href="https://car.suning.com/qichenew.html">汽车用品</a>
+</li>
+<li>
+<i class="ng-iconfont">&#xe6bb;</i>
+<a target="_blank" name="index3_homepage1_32617813016_word01" href="https://book.suning.com/">图书</a><em>/</em>
+<a target="_blank" name="index3_homepage1_32617813016_word02" href="https://redbaby.suning.com/tongshu.html">童书</a><em>/</em>
+<a target="_blank" name="index3_homepage1_32617813016_word03" href="https://snbook.suning.com/web/index.htm">电子书</a>
+</li>
+<li>
+<i class="ng-iconfont">&#xe6b3;</i>
+<a target="_blank" name="index3_homepage1_32617813017_word01" href="https://licai.suning.com/lcportal/licaiIndex.htm?channelCode=PC_YGMstation">理财</a><em>/</em>
+<a target="_blank" name="index3_homepage1_32617813017_word02" href="https://zc.suning.com/">众筹</a><em>/</em>
+<a target="_blank" name="index3_homepage1_32617813017_word03" href="https://rxf.suning.com/?idsTrustFrom=suning">分期</a><em>/</em>
+<a target="_blank" name="index3_homepage1_32617813017_word04" href="https://baoxian.suning.com/ins/index.htm">保险</a>
+</li>
+</ul>
+<div class="index-sort-detail">
+</div>
+</div>
+</div>
+<div class="ng-nav-index">
+<ul class="ng-nav">
+<li class="flag"><a name="index3_homepage1_32617813002_word01" href="https://ju.suning.com" target="_blank">大聚惠
+</a><span></span></li>
+<li class="flag"><a name="index3_homepage1_32617813002_word02" href="https://dianqi.suning.com" target="_blank">电器城
+</a><span></span></li>
+<li class="flag"><a name="index3_homepage1_32617813002_word03" href="https://chaoshi.suning.com" target="_blank">苏宁超市
+</a><span></span></li>
+<li class="line">|</li>
+<li><a name="index3_homepage1_32617813343_word01" href="https://vip.suning.com" target="_blank">苏宁会员
+<i class="new"></i>
+</a><span></span></li>
+<li><a name="index3_homepage1_32617813343_word02" href="https://redbaby.suning.com" target="_blank">红孩子
+</a><span></span></li>
+<li><a name="index3_homepage1_32617813343_word03" href="https://fashion.suning.com" target="_blank">服装城
+</a><span></span></li>
+<li><a name="index3_homepage1_32617813343_word04" href="https://g.suning.com" target="_blank">海外购
+</a><span></span></li>
+<li><a name="index3_homepage1_32617813343_word05" href="https://b.suning.com/b2b.htm" target="_blank">企业购
+</a><span></span></li>
+<li><a name="index3_homepage1_32617813343_word06" href="https://china.suning.com" target="_blank">特色馆
+</a><span></span></li>
+<li><a name="index3_homepage1_32617813343_word07" href="https://jinrong.suning.com" target="_blank">苏宁金融
+</a><span></span></li>
+</ul>
+</div>
+<div class="ng-nav-right-wenjuan">
+<a href="https://ued.suning.com/survey/express/d1V3ZndZ" target="_blank" name="index3_homepage1_yjfk_word01"><i></i><span>新版本首页有奖调研</span></a>
+</div>
+</div>
+<!--sort & nav ]]-->
+<div class="clear"></div>
+<div class="firstScreen" data-dacu="true">
+<div class="fw-bg" style="background:#e30724;">
+<img lazy-src="//image4.suning.cn/uimg/cms/img/149137547598987055.jpg" alt="左侧" class="fw-bg-left">
+<img lazy-src="//image5.suning.cn/uimg/cms/img/149137548465150658.jpg" alt="右侧" class="fw-bg-right">
+</div>
+<div class="banner-wrapper">
+<div class="banner">
+<ul>
+<li >
+<a href="https://cuxiao.suning.com/c0405phone.html" class="big" target="_blank" name="index3_homepage1_32618013025_pic01">
+<img lazy-src="//image2.suning.cn/uimg/cms/img/149138309104657287.jpg" alt="手机">
+</a>
+<div class="little little1">
+<div class="l-cover"></div>
+<a href="https://cuxiao.suning.com/bh418home.html" target="_blank" name="index3_homepage1_32618013025_pic02">
+<p class="img-name">418服饰预热</p>
+<p class="img-desc">抢50元大牌无门槛券</p>
+<img lazy-src="//image3.suning.cn/uimg/cms/img/149104737972221931.png" alt="418服饰预热">
+</a>
+</div>
+<div class="little little2">
+<div class="l-cover"></div>
+<a href="https://cuxiao.suning.com/dn00598.html" target="_blank" name="index3_homepage1_32618013025_pic03">
+<p class="img-name">3C电脑购物节</p>
+<p class="img-desc">华硕顽石游戏本3499元</p>
+<img lazy-src="//image4.suning.cn/uimg/cms/img/149095098524232981.png" alt="3C电脑购物节">
+</a>
+</div>
+</li>
+<li >
+<a href="https://cuxiao.suning.com/dn00598.html" class="big" target="_blank" name="index3_homepage1_32618013026_pic01">
+<img lazy-src="//image1.suning.cn/uimg/cms/img/149139251506868127.jpg" alt="电脑">
+</a>
+<div class="little little1">
+<div class="l-cover"></div>
+<a href="https://cuxiao.suning.com/dn00881.html" target="_blank" name="index3_homepage1_32618013026_pic02">
+<p class="img-name">惠普满千减百</p>
+<p class="img-desc">专业商用台机2699元</p>
+<img lazy-src="//image3.suning.cn/uimg/cms/img/149139406557251167.png" alt="惠普满千减百">
+</a>
+</div>
+<div class="little little2">
+<div class="l-cover"></div>
+<a href="https://cuxiao.suning.com/city/dn00599.html" target="_blank" name="index3_homepage1_32618013026_pic03">
+<p class="img-name">小米粉丝福利日</p>
+<p class="img-desc">MI族产品大放价49元起</p>
+<img lazy-src="//image2.suning.cn/uimg/cms/img/149139477640765640.png" alt="小米粉丝福利日">
+</a>
+</div>
+</li>
+<li >
+<a href="http://shop.suning.com/30000213/index.html?adtype=cpt" class="big" target="_blank" name="index3_homepage1_32618013027_pic01">
+<img lazy-src="//image5.suning.cn/uimg/cms/img/149139266840786849.jpg" alt="雅培">
+</a>
+<div class="little little1">
+<div class="l-cover"></div>
+<a href="http://shop.suning.com/30000213/10004131.html" target="_blank" name="index3_homepage1_32618013027_pic02">
+<p class="img-name">注册新客买1赠1</p>
+<p class="img-desc">全程有机丹麦进口</p>
+<img lazy-src="//image4.suning.cn/uimg/cms/img/149139274133109746.png" alt="注册新客买1赠1">
+</a>
+</div>
+<div class="little little2">
+<div class="l-cover"></div>
+<a href="http://shop.suning.com/30000213/10001996.html" target="_blank" name="index3_homepage1_32618013027_pic03">
+<p class="img-name">注册新客买1赠2</p>
+<p class="img-desc">亲和体质双重倍护</p>
+<img lazy-src="//image2.suning.cn/uimg/cms/img/149139279881186730.png" alt="注册新客买1赠2">
+</a>
+</div>
+</li>
+<li >
+<a href="http://shop.suning.com/30000061/index.html" class="big" target="_blank" name="index3_homepage1_32618013028_pic01">
+<img lazy-src="//image2.suning.cn/uimg/cms/img/149103543064311073.jpg" alt="美的">
+</a>
+<div class="little little1">
+<div class="l-cover"></div>
+<a href="http://shop.suning.com/30000980/index.html" target="_blank" name="index3_homepage1_32618013028_pic02">
+<p class="img-name">红色414</p>
+<p class="img-desc">预订抽豪礼</p>
+<img lazy-src="//image1.suning.cn/uimg/cms/img/149139292525134078.png" alt="红色414">
+</a>
+</div>
+<div class="little little2">
+<div class="l-cover"></div>
+<a href="http://cuxiao.suning.com/hd20170401.html" target="_blank" name="index3_homepage1_32618013028_pic03">
+<p class="img-name">电视家影</p>
+<p class="img-desc">领券最高直降500</p>
+<img lazy-src="//image1.suning.cn/uimg/cms/img/149105002934131891.png" alt="电视家影">
+</a>
+</div>
+</li>
+<li >
+<a href="https://cuxiao.suning.com/city/nubia.htm" class="big" target="_blank" name="index3_homepage1_32618013029_pic01">
+<img lazy-src="//image5.suning.cn/uimg/cms/img/149144593377671675.jpg" alt="努比亚">
+</a>
+<div class="little little1">
+<div class="l-cover"></div>
+<a href="https://cuxiao.suning.com/city/tx00666.htm" target="_blank" name="index3_homepage1_32618013029_pic02">
+<p class="img-name">红米Note4X</p>
+<p class="img-desc">4+64G 官网价1299元抢</p>
+<img lazy-src="//image1.suning.cn/uimg/cms/img/149139491664953377.png" alt="红米Note4X">
+</a>
+</div>
+<div class="little little2">
+<div class="l-cover"></div>
+<a href="https://cuxiao.suning.com/c0405phone.html" target="_blank" name="index3_homepage1_32618013029_pic03">
+<p class="img-name">荣耀8青春版</p>
+<p class="img-desc">1099元火爆开抢</p>
+<img lazy-src="//image5.suning.cn/uimg/cms/img/149139521868911250.png" alt="荣耀8青春版">
+</a>
+</div>
+</li>
+<li >
+<a href="https://cuxiao.suning.com/city/tx00057.htm" class="big" target="_blank" name="index3_homepage1_32618013030_pic01">
+<img lazy-src="//image2.suning.cn/uimg/cms/img/149103927343504887.jpg" alt="华为">
+</a>
+<div class="little little1">
+<div class="l-cover"></div>
+<a href="https://cuxiao.suning.com/xjdjjgxjh.html" target="_blank" name="index3_homepage1_32618013030_pic02">
+<p class="img-name">家居革新计划</p>
+<p class="img-desc">满1000减100</p>
+<img lazy-src="//image1.suning.cn/uimg/cms/img/149139734281724826.png" alt="家居革新计划">
+</a>
+</div>
+<div class="little little2">
+<div class="l-cover"></div>
+<a href="https://cuxiao.suning.com/sm00904.html" target="_blank" name="index3_homepage1_32618013030_pic03">
+<p class="img-name">相机装备节</p>
+<p class="img-desc">佳能单反2599起</p>
+<img lazy-src="//image5.suning.cn/uimg/cms/img/149103657422042296.png" alt="相机装备节">
+</a>
+</div>
+</li>
+<li >
+<a href="http://cuxiao.suning.com/bh418home.html" class="big" target="_blank" name="index3_homepage1_32618013031_pic01">
+<img lazy-src="//image5.suning.cn/uimg/cms/img/149139503552744164.jpg" alt="百货418">
+</a>
+<div class="little little1">
+<div class="l-cover"></div>
+<a href="https://cuxiao.suning.com/sncs418.html" target="_blank" name="index3_homepage1_32618013031_pic02">
+<p class="img-name">超市418</p>
+<p class="img-desc">买3免1狂欢购</p>
+<img lazy-src="//image4.suning.cn/uimg/cms/img/149137374498970249.png" alt="超市418">
+</a>
+</div>
+<div class="little little2">
+<div class="l-cover"></div>
+<a href="https://cuxiao.suning.com/c0405phone.html" target="_blank" name="index3_homepage1_32618013031_pic03">
+<p class="img-name">iPhone 7</p>
+<p class="img-desc">低至4288元疯抢</p>
+<img lazy-src="//image4.suning.cn/uimg/cms/img/149138324338251758.png" alt="iPhone 7">
+</a>
+</div>
+</li>
+<li >
+<a d-href="//th.suning.com/calClicks?sid=-1&tid=16940597&adType=CPT&cptType=ARM&st=w&positionID=200001000&ap=NDQyOTEwMzM5ODQzMjc0MXw5MzMwZTFjMDBkMTUxOGEzNjExMzEzY2FjMGJjNThlM3wyMDAwMDEwMDB8MTY5NDA1OTd8LTF8aHR0cHM6Ly9jdXhpYW8uc3VuaW5nLmNvbS9jaXR5L3R4MDAwNDUzLmh0bWx8Q1BUfDIwMTctMDQtMDYgMTA6NDA6MzJ8MTQ5MTQ0NjQzMjc0MzMyNzQxOTl8MTkyLjE2OC4xODYuMTY3fHxuaWx8LTF8fHwxNTg5MTIzM3wxMHx8MTkyLjE2OC4yMjIuMTUzfA==" class="big" target="_blank" cpmId="200001000" d-name="index3_homepage1_32618013032_pic01">
+<img d-src="//image5.suning.cn/uimg/aps/material/149104923504266929.jpg"d-alt="手机">
+</a>
+<div class="little little1">
+<div class="l-cover"></div>
+<a href="https://cuxiao.suning.com/muying418.html" target="_blank" name="index3_homepage1_32618013032_pic02">
+<p class="img-name">母婴总动员</p>
+<p class="img-desc">玩具买三免一</p>
+<img lazy-src="//image1.suning.cn/uimg/cms/img/149135503009139551.png" alt="母婴总动员">
+</a>
+</div>
+<div class="little little2">
+<div class="l-cover"></div>
+<a href="https://shop.suning.com/30000050/index.html" target="_blank" name="index3_homepage1_32618013032_pic03">
+<p class="img-name">志高品牌日</p>
+<p class="img-desc">买空调送电视</p>
+<img lazy-src="//image1.suning.cn/uimg/cms/img/149103647831270979.png" alt="志高品牌日">
+</a>
+</div>
+</li>
+</ul>
+</div>
+<a href="javascript:;" class="btn btn-left" name="index3_homepage1_lbgg_qhan01"></a>
+<a href="javascript:;" class="btn btn-right" name="index3_homepage1_lbgg_qhan02"></a>
+<div class="banner-nav-wrapper">
+</div>
+</div>
+<div class="first-right">
+<div class="user-infor">
+<div class="user-img">
+<a href="javascript:SFE.base.logonurl();" name="index3_homepage1_denglu_button">
+<img lazy-src="" alt="">
+<span class="hover"></span>
+</a>
+</div>
+<p class="infor">Hi,你好</p>
+<p class="name"><b>Hi,</b><em></em></p>
+<p class="level"><a href="https://vip.suning.com/" target="_blank"><i></i></a></p>
+<div class="btn">
+<a href="javascript:SFE.base.logonurl();" class="login" name="index3_homepage1_denglu_button">登录</a>
+<a href="https://reg.suning.com/person.do" class="register" name="index3_homepage1_zhuce_button">新人有礼</a>
+</div>
+<div class="enter">
+<a href="https://sign.suning.com/sign/welcome.do" class="yunzuan" name="index3_homepage1_lingyunzuan_button"><em></em><span>领云钻</span><i>></i></a>
+<a href="http://quan.suning.com/lq_1.htm" class="quan" name="index3_homepage1_lingquan_button"><em></em><span>领券</span><i>></i></a>
+</div>
+</div>
+<div class="toutiao">
+<ul class="clearfix">
+<li><p><a href="https://news.suning.com/witem.html?contentId=2709490784" target="_blank" name="index3_homepage1_32618013033_word01"><i>[盘点]</i>418之手机篇 6款手机大降价>> </a></p></li>
+<li><p><a href="https://news.suning.com/witem.html?contentId=5260192932" target="_blank" name="index3_homepage1_32618013033_word02"><i>[热议]</i>什么！一个人可以有两张医保卡？ </a></p></li>
+<li><p><a href="https://news.suning.com/witem.html?contentId=6105965521" target="_blank" name="index3_homepage1_32618013033_word03"><i>[疯抢]</i>家电之王 6款比手机还便宜的智能电视！ </a></p></li>
+<li><p><a href="https://news.suning.com/witem.html?contentId=6831852594" target="_blank" name="index3_homepage1_32618013033_word04"><i>[震撼]</i>C罗带你看努比亚新品发布会 </a></p></li>
+</ul>
+</div>
+<div class="kuaijie">
+<ul>
+<li>
+<a href="http://chong.suning.com/eppscrp/mobile/fill.htm?idsTrustFrom=suning&idsFirstLogin=true" target="_blank" name="index3_homepage1_32618013034_word01">
+<i class="ng-iconfont">&#xe6bd;</i>
+<p>话费</p>
+</a>
+</li>
+<li>
+<a href="https://jiaofei.suning.com/eppspfi/cityLocation/getCityLocation.htm?pageType=1&idsTrustFrom=suning" target="_blank" name="index3_homepage1_32618013034_word02">
+<i class="ng-iconfont">&#xe6c0;</i>
+<p>水电煤</p>
+</a>
+</li>
+<li>
+<a href="https://jiaofei.suning.com/eppspfi/cityLocation/getCityLocation.htm?pageType=5" target="_blank" name="index3_homepage1_32618013034_word03">
+<i class="ng-iconfont">&#xe6c2;</i>
+<p>加油卡</p>
+</a>
+</li>
+<li>
+<a href="https://licai.suning.com/lcportal/licaiIndex.htm" target="_blank" name="index3_homepage1_32618013034_word04">
+<i class="ng-iconfont">&#xe6c1;</i>
+<p>理财</p>
+</a>
+</li>
+<li>
+<a href="https://sh.suning.com/life/cr/repay!init.action?ticket=STDA87E0085C6535A28B1DF034E7D3C824" target="_blank" name="index3_homepage1_32618013034_word05">
+<i class="ng-iconfont">&#xe6be;</i>
+<p>还款</p>
+</a>
+</li>
+<li>
+<a href="https://snfc.suning.com" target="_blank" name="index3_homepage1_32618013034_word06">
+<i class="ng-iconfont">&#xe6bf;</i>
+<p>足球</p>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="float-wrapper">
+<div class="floatbar" id="indexFloat">
+<div class="float-bg"></div>
+<ul class="list">
+<li rel="J-floor1" class="first">
+<a href="javascript:;" name="index3_homepage1_32618113135_word01">手机电脑</a>
+</li>
+<li rel="J-floor2">
+<a href="javascript:;" name="index3_homepage1_32618113135_word02">家用电器</a>
+</li>
+<li rel="J-floor3">
+<a href="javascript:;" name="index3_homepage1_32618113135_word03">数码汽车</a>
+</li>
+<li rel="J-floor4">
+<a href="javascript:;" name="index3_homepage1_32618113135_word04">生活家装</a>
+</li>
+<li rel="J-floor5">
+<a href="javascript:;" name="index3_homepage1_32618113135_word05">美味生活</a>
+</li>
+<li rel="J-floor6">
+<a href="javascript:;" name="index3_homepage1_32618113135_word06">母婴美妆</a>
+</li>
+<li rel="J-floor7">
+<a href="javascript:;" name="index3_homepage1_32618113135_word07">服饰运动</a>
+</li>
+<li rel="J-floor8">
+<a href="javascript:;" name="index3_homepage1_32618113135_word08">理财阅读</a>
+</li>
+<li rel="J-floor9">
+<a href="javascript:;" name="index3_homepage1_32618113135_word09">清单拼购</a>
+</li>
+<li rel="J-floor10">
+<a href="javascript:;" name="index3_homepage1_32618113135_word10">苏宁直播</a>
+</li>
+<li rel="J-floor11">
+<a href="javascript:;" name="index3_homepage1_32618113135_word11">猜你喜欢</a>
+</li>
+</ul>
+<a href="javascript:;" name="index3_homepage1_fhdb_button" id="goTop" class="return"></a>
+</div>
+</div>
+<div class="ju-floor" data-fullId="326182" data-tuijian="true">
+<div class="content-wrapper" style="background:url(//image1.suning.cn/uimg/cms/img/149137546040873827.jpg);">
+<div class="content">
+<div class="title">
+<h5 class="floor-name">
+<span>大聚惠</span><i class="slogon"></i>
+</h5>
+<div class="ju-tab">
+<a href="javascript:;" class="tab1" name="index3_homepage1_32618213035_word01"><i></i><span>今日聚惠</span></a>
+<a href="javascript:;" class="tab2" name="index3_homepage1_32618213035_word02" data-clock="20"><i></i><span></span></a>
+</div>
+<a href="https://ju.suning.com/" class="ju-more" target="_blank" name="index3_homepage1_32618213036_word01"><span>更多聚惠商品</span><i></i><em class="left"></em><em class="right"></em></a>
+</div>
+<div class="ju-com">
+<div class="commodity-tab">
+<div class="ju-list">
+<ul>
+</ul>
+<a href="javascript:;" class="btn btn-left" name="index3_homepage1_djh_left"></a>
+<a href="javascript:;" class="btn btn-right" name="index3_homepage1_djh_right"></a>
+</div>
+<div class="yeshi-list" data-pindao="LFHFYSY" data-leimu="">
+<ul>
+</ul>
+<a href="javascript:;" class="btn btn-left" name="index3_homepage1_ys_left"></a>
+<a href="javascript:;" class="btn btn-right" name="index3_homepage1_ys_right"></a>
+</div>
+</div>
+<a href="https://ju.suning.com/pc/brandGroup-2.html" target="_blank" name="index3_homepage1_32618213037_pic01" class="ju-enter">
+<img lazy-src="//image5.suning.cn/uimg/cms/img/149144377230176846.jpg" alt="西门子">
+</a>
+</div>
+</div>
+</div>
+<div class="hideArea"></div>
+</div>
+<div class="hhAphb-floor clearfix" data-fullId="326187">
+<div class="content-module haohuo-module" data-tuijian="true">
+<div class="title">
+<h5>精选好货</h5>
+<a href="http://news.suning.com/whaohuo.html" target="_blank" name="index3_homepage1_32618713050_word01"><span>更多好货</span><i></i></a>
+</div>
+<div class="content">
+<ul class="clearfix">
+</ul>
+</div>
+</div>
+<div class="content-module paihangbang-module ml10" data-tuijian="true">
+<div class="title">
+<h5>排行榜</h5>
+<div class="phb-tab">
+</div>
+<a href="http://phb.suning.com/phbpage.html" target="_blank" name="index3_homepage1_32618713055_word01"><span>更多榜单</span><i></i></a>
+</div>
+<div class="content">
+<ul class="clearfix current">
+</ul>
+</div>
+</div>
+<div class="hideArea"></div>
+</div>
+<div class="hwgAhd-floor clearfix" data-fullId="326188">
+<div class="content-module haiwaigou-module" data-tuijian="true">
+<div class="title">
+<h5>海外购</h5>
+<a href="https://g.suning.com/" target="_blank" name="index3_homepage1_32618813058_word01"><span>更多海外商品</span><i></i></a>
+</div>
+<div class="content">
+<div class="left">
+</div>
+<ul class="clearfix com-list">
+<li class="normal">
+<a href="https://g.suning.com/zy.html" target="_blank" name="index3_homepage1_32618813060_pic01">
+<p class="com-name">海外大牌云集 自营直采</p>
+<img lazy-src="//image3.suning.cn/uimg/cms/img/149140199347885607.png" alt="海外大牌云集 自营直采">
+</a>
+</li>
+<li class="normal">
+<a href="https://cuxiao.suning.com/city/hwg20170321.html" target="_blank" name="index3_homepage1_32618813060_pic02">
+<p class="com-name">海外人气商品 热销指南</p>
+<img lazy-src="//image3.suning.cn/uimg/cms/img/149140200037531041.png" alt="海外人气商品 热销指南">
+</a>
+</li>
+<li class="normal">
+<a href="https://cuxiao.suning.com/city/hwg181620.html" target="_blank" name="index3_homepage1_32618813060_pic03">
+<p class="com-name">宝宝用品满199减50</p>
+<img lazy-src="//image1.suning.cn/uimg/cms/img/149140200745860810.jpg" alt="宝宝用品满199减50">
+</a>
+</li>
+<li class="normal">
+<a href="https://cuxiao.suning.com/city/hwg00100.html" target="_blank" name="index3_homepage1_32618813060_pic04">
+<p class="com-name">海外家电数码专场4折起</p>
+<img lazy-src="//image5.suning.cn/uimg/cms/img/149105670274909682.png" alt="海外家电数码专场4折起">
+</a>
+</li>
+</ul>
+<ul class="clearfix brand-list">
+<li class="item1">
+<a href="https://cuxiao.suning.com/city/hwg00912.html" target="_blank" name="index3_homepage1_32618813061_widscr01">
+<img lazy-src="//image2.suning.cn/uimg/cms/img/149138609852011828.jpg" alt="澳洲" class="flag">
+<p>澳洲</p>
+<img lazy-src="//image3.suning.cn/uimg/cms/img/149138606778114431.jpg" alt="澳洲" class="brand">
+</a>
+</li>
+<li class="item2">
+<a href="https://cuxiao.suning.com/city/hwg170405.html" target="_blank" name="index3_homepage1_32618813061_widscr02">
+<img lazy-src="//image4.suning.cn/uimg/cms/img/149138527522347369.jpg" alt="丹麦" class="flag">
+<p>丹麦</p>
+<img lazy-src="//image2.suning.cn/uimg/cms/img/149138547355395275.jpg" alt="丹麦" class="brand">
+</a>
+</li>
+<li class="item3">
+<a href="https://cuxiao.suning.com/city/hwg0170317.html" target="_blank" name="index3_homepage1_32618813061_widscr03">
+<img lazy-src="//image5.suning.cn/uimg/cms/img/149102882483613872.jpg" alt="意大利" class="flag">
+<p>意大利</p>
+<img lazy-src="//image5.suning.cn/uimg/cms/img/149102881266532283.jpg" alt="意大利" class="brand">
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="content-module haodian-module ml10" data-tuijian="true">
+<div class="title">
+<h5>好店推荐</h5>
+</div>
+<div class="content">
+<div class="line"></div>
+</div>
+</div>
+<div class="hideArea"></div>
+</div>
+<div class="activity-floor">
+<ul>
+<li style="background: #9263de;">
+<a href="https://sxs.suning.com/sxspc_huadong.html" target="_blank" name="index3_homepage1_32618913085_pic01">
+<p class="title">苏鲜生</p>
+<p class="desc">鲜味人知</p>
+<img lazy-src="//image2.suning.cn/uimg/cms/img/149118459336845111.png" alt="苏鲜生">
+</a>
+</li>
+<li style="background: #3c50c4;">
+<a href="https://cuxiao.suning.com/sm00907.html" target="_blank" name="index3_homepage1_32618913085_pic02">
+<p class="title">企业购</p>
+<p class="desc">数码商品7折起</p>
+<img lazy-src="//image1.suning.cn/uimg/cms/img/149144551874412044.png" alt="企业购">
+</a>
+</li>
+<li style="background: #2eaba3;">
+<a href="https://zc.suning.com/" target="_blank" name="index3_homepage1_32618913085_pic03">
+<p class="title">众筹</p>
+<p class="desc">3T变形车</p>
+<img lazy-src="//image4.suning.cn/uimg/cms/img/149101838313710931.png" alt="众筹">
+</a>
+</li>
+<li style="background: #2f82e8;">
+<a href="https://smarthome.suning.com/s_mall.html" target="_blank" name="index3_homepage1_32618913085_pic04">
+<p class="title">智能生活</p>
+<p class="desc">领券满减多重优惠</p>
+<img lazy-src="//image1.suning.cn/uimg/cms/img/149138912370370038.png" alt="智能生活">
+</a>
+</li>
+<li style="background: #f54f76;">
+<a href="https://pindao.suning.com/city/fleamarket.html" target="_blank" name="index3_homepage1_32618913085_pic05">
+<p class="title">二手优品</p>
+<p class="desc">有售后保障的二手</p>
+<img lazy-src="//image2.suning.cn/uimg/cms/img/149009120151271638.png" alt="二手优品">
+</a>
+</li>
+<li style="background: #ff6600;">
+<a href="https://quan.suning.com/lq_1.htm" target="_blank" name="index3_homepage1_32618913085_pic06">
+<p class="title">领券中心</p>
+<p class="desc">三支14元包邮</p>
+<img lazy-src="//image5.suning.cn/uimg/cms/img/149135793104684057.png" alt="领券中心">
+</a>
+</li>
+<li style="background: #f54f4f;">
+<a href="https://jinrong.suning.com/" target="_blank" name="index3_homepage1_32618913085_pic07">
+<p class="title">苏宁金融</p>
+<p class="desc">理财新手专享10%</p>
+<img lazy-src="//image1.suning.cn/uimg/cms/img/149136342030378277.png" alt="苏宁金融">
+</a>
+</li>
+<li style="background: #33ae75;">
+<a href="https://china.suning.com/" target="_blank" name="index3_homepage1_32618913085_pic08">
+<p class="title">中华特色馆</p>
+<p class="desc">铁观音 买2付1</p>
+<img lazy-src="//image5.suning.cn/uimg/cms/img/149137687467278133.png" alt="中华特色馆">
+</a>
+</li>
+</ul>
+</div>
+<div class="middle-one middle-floor">
+<a href="https://cuxiao.suning.com/ktdckx.html" target="_blank" name="index3_homepage1_32619013086_pic01">
+<img lazy-src="//image4.suning.cn/uimg/cms/img/149103274210644357.png" alt="99999">
+</a>
+</div>
+<div class="floor com-floor floorTwo" data-fullId="326192">
+<div class="floor-l left-floor" style="border-color: #33ae75">
+<div class="title" style="background:#f0f7f4;">
+<div class="title-name" style="background: #33ae75;">
+<p class="name">热门手机</p>
+<p class="desc"></p>
+</div>
+<div class="keyword clearfix">
+<a href="https://pindao.suning.com/city/fleamarket.html" name="index3_homepage1_32619213098_word01" target="_blank">二手优品</a>
+<a href="https://hx.suning.com/" name="index3_homepage1_32619213098_word02" target="_blank">以旧换新</a>
+<a href="https://pindao.suning.com/zhinengpeijian.html" name="index3_homepage1_32619213098_word03" target="_blank">手机周边</a>
+</div>
+</div>
+</div>
+<div class="floor-l right-floor" style="border-color: #2eaba3">
+<div class="title" style="background:#ecf5f5;">
+<div class="title-name" style="background: #2eaba3;">
+<p class="name">电脑办公</p>
+<p class="desc"></p>
+</div>
+<div class="keyword clearfix">
+<a href="https://list.suning.com/0-157127-0.html" name="index3_homepage1_32619213105_word01" target="_blank">打印机</a>
+<a href="https://list.suning.com/0-258009-0.html" name="index3_homepage1_32619213105_word02" target="_blank">台式电脑</a>
+<a href="https://list.suning.com/0-258006-0-0-0-0-0-0-0-0-10103.html" name="index3_homepage1_32619213105_word03" target="_blank">iPad</a>
+<a href="https://list.suning.com/0-258004-0.html" name="index3_homepage1_32619213105_word04" target="_blank">笔记本</a>
+</div>
+</div>
+</div>
+</div>
+<div class="middle-three middle-floor">
+<a href="https://cuxiao.suning.com/bx0301.html" target="_blank" name="index3_homepage1_32648013087_pic01">
+<img lazy-src="//image2.suning.cn/uimg/cms/img/149139245204067254.jpg" alt="冰洗" class="first">
+</a>
+<a href="https://cuxiao.suning.com/c0405phone.html" target="_blank" name="index3_homepage1_32648013087_pic02">
+<img lazy-src="//image5.suning.cn/uimg/cms/img/149138542410147555.jpg" alt="手机">
+</a>
+<a href="https://cuxiao.suning.com/dn00598.html" target="_blank" name="index3_homepage1_32648013087_pic03">
+<img lazy-src="//image2.suning.cn/uimg/cms/img/149104754300661318.jpg" alt="电脑">
+</a>
+</div>
+<div class="floor com-floor floorOne" style="border-color: #5f6cb7" data-fullId="326191">
+<div class="title" style="background: #eff0f8;">
+<div class="title-name" style="background: #5f6cb7;">
+<p class="name">家用电器</p>
+<p class="desc"></p>
+</div>
+<div class="keyword clearfix">
+<a href="http://list.suning.com/0-243505-0.html" name="index3_homepage1_32619113090_word01" target="_blank">平板电视</a>
+<a href="http://list.suning.com/0-244009-0.html" name="index3_homepage1_32619113090_word02" target="_blank">智能影音</a>
+<a href="http://list.suning.com/0-244006-0-0-0-0-0-0-0-0-782345.html" name="index3_homepage1_32619113090_word03" target="_blank">洗干一体机</a>
+<a href="http://search.suning.com/%E5%87%80%E6%B0%B4/" name="index3_homepage1_32619113090_word04" target="_blank">净水设备</a>
+<a href="https://list.suning.com/0-431504-0.html" name="index3_homepage1_32619113090_word05" target="_blank">空调</a>
+</div>
+</div>
+</div>
+<div class="floor com-floor floorTwo" data-fullId="326443">
+<div class="floor-l left-floor" style="border-color: #3299cc">
+<div class="title" style="background:#eff7fb;">
+<div class="title-name" style="background: #3299cc;">
+<p class="name">智能数码</p>
+<p class="desc"></p>
+</div>
+<div class="keyword clearfix">
+<a href="https://sale.suning.com/sm/JULEBU2/index.html" name="index3_homepage1_32644313098_word01" target="_blank">摄影课堂</a>
+<a href="https://list.suning.com/0-20064-0-0-0-0.html" name="index3_homepage1_32644313098_word02" target="_blank">单反相机</a>
+<a href="https://list.suning.com/0-501293-0.html" name="index3_homepage1_32644313098_word03" target="_blank">智能摄像头</a>
+<a href="https://pindao.suning.com/city/shuma.htm" name="index3_homepage1_32644313098_word04" target="_blank">相机频道</a>
+</div>
+</div>
+</div>
+<div class="floor-l right-floor" style="border-color: #558ccf">
+<div class="title" style="background:#edf1f7;">
+<div class="title-name" style="background: #558ccf;">
+<p class="name">汽摩出行</p>
+<p class="desc"></p>
+</div>
+<div class="keyword clearfix">
+<a href="https://search.suning.com/%E4%BA%BF%E5%8A%9B%E6%B4%97%E8%BD%A6%E6%9C%BA/" name="index3_homepage1_32644313105_word01" target="_blank">亿力洗车机</a>
+<a href="https://list.suning.com/0-501241-0.html" name="index3_homepage1_32644313105_word02" target="_blank">摩托车</a>
+<a href="http://search.suning.com/%E5%8D%9A%E4%B8%96%E9%9B%A8%E5%88%AE/" name="index3_homepage1_32644313105_word03" target="_blank">博世雨刮</a>
+<a href="https://list.suning.com/0-344259-0.html" name="index3_homepage1_32644313105_word04" target="_blank">行车记录仪</a>
+</div>
+</div>
+</div>
+</div>
+<div class="floor com-floor floorTwo" data-fullId="326444">
+<div class="floor-l left-floor" style="border-color: #c96b2c">
+<div class="title" style="background:#fbf3ee;">
+<div class="title-name" style="background: #c96b2c;">
+<p class="name">生活家电</p>
+<p class="desc"></p>
+</div>
+<div class="keyword clearfix">
+<a href="https://pindao.suning.com/city/HealthChina.html" name="index3_homepage1_32644413098_word01" target="_blank">健康中国</a>
+<a href="https://pindao.suning.com/city/gehu.html" name="index3_homepage1_32644413098_word02" target="_blank">个护频道</a>
+<a href="https://pindao.suning.com/city/chuiju.html" name="index3_homepage1_32644413098_word03" target="_blank">厨具频道</a>
+<a href="https://pindao.suning.com/city/xiaojiadian.html" name="index3_homepage1_32644413098_word04" target="_blank">小家电馆</a>
+</div>
+</div>
+</div>
+<div class="floor-l right-floor" style="border-color: #b15641">
+<div class="title" style="background:#f9f2f0;">
+<div class="title-name" style="background: #b15641;">
+<p class="name">家装建材</p>
+<p class="desc"></p>
+</div>
+<div class="keyword clearfix">
+<a href="https://pindao.suning.com/city/jiajuguan.html" name="index3_homepage1_32644413105_word01" target="_blank">精品家具</a>
+<a href="https://pindao.suning.com/city/jiancai.html" name="index3_homepage1_32644413105_word02" target="_blank">建材馆</a>
+<a href="https://cuxiao.suning.com/dszm3.html" name="index3_homepage1_32644413105_word03" target="_blank">灯具灯饰</a>
+<a href="https://cuxiao.suning.com/jz04.html" name="index3_homepage1_32644413105_word04" target="_blank">厨房卫浴</a>
+</div>
+</div>
+</div>
+</div>
+<div class="floor com-floor floorOne" style="border-color: #e96f1e" data-fullId="326445">
+<div class="title" style="background: #fdf4ed;">
+<div class="title-name" style="background: #e96f1e;">
+<p class="name">美味生活</p>
+<p class="desc"></p>
+</div>
+<div class="keyword clearfix">
+<a href="https://list.suning.com/0-500363-0.html" name="index3_homepage1_32644513090_word01" target="_blank">休闲食品</a>
+<a href="https://list.suning.com/0-500402-0.html" name="index3_homepage1_32644513090_word02" target="_blank">进口巧克力</a>
+<a href="https://list.suning.com/0-500364-0.html" name="index3_homepage1_32644513090_word03" target="_blank">粮油调味</a>
+<a href="https://list.suning.com/0-500372-0.html" name="index3_homepage1_32644513090_word04" target="_blank">冲调饮料</a>
+<a href="https://chaoshi.suning.com/city/suxianshen.html" name="index3_homepage1_32644513090_word05" target="_blank">水果生鲜</a>
+</div>
+</div>
+</div>
+<div class="floor com-floor floorTwo" data-fullId="326446">
+<div class="floor-l left-floor" style="border-color: #e87272">
+<div class="title" style="background:#fdf1f1;">
+<div class="title-name" style="background: #e87272;">
+<p class="name">美妈萌娃</p>
+<p class="desc"></p>
+</div>
+<div class="keyword clearfix">
+<a href="https://pindao.suning.com/city/mynaifen.html" name="index3_homepage1_32644613098_word01" target="_blank">奶粉辅食</a>
+<a href="https://cuxiao.suning.com/city/ssebfznkpc.htm" name="index3_homepage1_32644613098_word02" target="_blank">尿裤爆款</a>
+<a href="https://pindao.suning.com/city/mywanju.html" name="index3_homepage1_32644613098_word03" target="_blank">玩具装备</a>
+<a href="https://pindao.suning.com/city/tccpindaoye.html" name="index3_homepage1_32644613098_word04" target="_blank">车床座椅</a>
+</div>
+</div>
+</div>
+<div class="floor-l right-floor" style="border-color: #e7658c">
+<div class="title" style="background:#fdeff3;">
+<div class="title-name" style="background: #e7658c;">
+<p class="name">美妆个护</p>
+<p class="desc"></p>
+</div>
+<div class="keyword clearfix">
+<a href="http://list.suning.com/0-349505-0.html" name="index3_homepage1_32644613105_word01" target="_blank">爽肤水</a>
+<a href="http://list.suning.com/0-330016-0.html" name="index3_homepage1_32644613105_word02" target="_blank">乳液</a>
+<a href="http://list.suning.com/0-330018-0.html" name="index3_homepage1_32644613105_word03" target="_blank">面霜</a>
+<a href="http://list.suning.com/0-316550-0.html" name="index3_homepage1_32644613105_word04" target="_blank">洗发水</a>
+</div>
+</div>
+</div>
+</div>
+<div class="floor com-floor floorTwo" data-fullId="326447">
+<div class="floor-l left-floor" style="border-color: #9a6392">
+<div class="title" style="background:#f7f3f6;">
+<div class="title-name" style="background: #9a6392;">
+<p class="name">服饰配饰</p>
+<p class="desc"></p>
+</div>
+<div class="keyword clearfix">
+<a href="https://search.suning.com/%E9%AB%98%E8%B7%9F%E9%9E%8B/" name="index3_homepage1_32644713098_word01" target="_blank">高跟鞋</a>
+<a href="https://search.suning.com/%E6%89%8B%E8%A1%A8/" name="index3_homepage1_32644713098_word02" target="_blank">手表</a>
+<a href="https://search.suning.com/%E8%BF%9E%E8%A1%A3%E8%A3%99/" name="index3_homepage1_32644713098_word03" target="_blank">连衣裙</a>
+<a href="https://search.suning.com/%E8%A1%AC%E8%A1%AB/" name="index3_homepage1_32644713098_word04" target="_blank">品质衬衫</a>
+</div>
+</div>
+</div>
+<div class="floor-l right-floor" style="border-color: #76639a">
+<div class="title" style="background:#f4f3f7;">
+<div class="title-name" style="background: #76639a;">
+<p class="name">运动户外</p>
+<p class="desc"></p>
+</div>
+<div class="keyword clearfix">
+<a href="https://list.suning.com/0-420036-0.html" name="index3_homepage1_32644713105_word01" target="_blank">电动车</a>
+<a href="https://search.suning.com/%E8%B7%91%E6%AD%A5%E6%9C%BA/cityId=9173&ci=420555&iy=-1&st=0&sc=0" name="index3_homepage1_32644713105_word02" target="_blank">跑步机</a>
+<a href="https://list.suning.com/0-420519-0.html" name="index3_homepage1_32644713105_word03" target="_blank">运动卫衣</a>
+<a href="https://list.suning.com/0-420503-0.html" name="index3_homepage1_32644713105_word04" target="_blank">运动鞋</a>
+</div>
+</div>
+</div>
+</div>
+<div class="floor com-floor floorTwo" data-fullId="326448">
+<div class="floor-l left-floor" style="border-color: #b87b1b">
+<div class="title" style="background:#f9f5ed;">
+<div class="title-name" style="background: #b87b1b;">
+<p class="name">金融</p>
+<p class="desc"></p>
+</div>
+<div class="keyword clearfix">
+<a href="https://fq.suning.com/" name="index3_homepage1_32644813098_word01" target="_blank">12期0息购</a>
+<a href="https://sale.suning.com/jr/zf_418bankjhypc/index.html" name="index3_homepage1_32644813098_word02" target="_blank">最高减50</a>
+<a href="https://zc.suning.com/project/detail.htm?projectId=13872" name="index3_homepage1_32644813098_word03" target="_blank">樱桃1元起</a>
+<a href="https://sale.suning.com/jr/lc_418tqpc/index.html" name="index3_homepage1_32644813098_word04" target="_blank">送120元</a>
+</div>
+</div>
+</div>
+<div class="floor-l right-floor" style="border-color: #a16b46">
+<div class="title" style="background:#f8f3f0;">
+<div class="title-name" style="background: #a16b46;">
+<p class="name">阅读</p>
+<p class="desc"></p>
+</div>
+<div class="keyword clearfix">
+<a href="https://snbook.suning.com/web/index.html" name="index3_homepage1_32644813105_word01" target="_blank">电子书</a>
+<a href="https://list.suning.com/1-264308-0.html" name="index3_homepage1_32644813105_word02" target="_blank">早教启蒙</a>
+<a href="https://list.suning.com/1-264322-0.html" name="index3_homepage1_32644813105_word03" target="_blank">0-2岁</a>
+<a href="https://list.suning.com/1-262509-0.html" name="index3_homepage1_32644813105_word04" target="_blank">孕产育儿</a>
+</div>
+</div>
+</div>
+</div>
+<div class="floor qdApg-floor clearfix" data-fullId="326194">
+<div class="content-module qd-module" >
+<div class="title">
+<h5>必抢清单</h5>
+<a href="https://news.suning.com/qingdan.html?" target="_blank" name="index3_homepage1_32619413071_word01"><span>更多精选</span><i></i></a>
+</div>
+<ul class="clearfix">
+</ul>
+</div>
+<div class="content-module pg-module ml10" data-tuijian="true">
+<div class="title">
+<h5>乐拼购</h5>
+</div>
+<div class="list-wrapper">
+<div class="list">
+<ul>
+</ul>
+</div>
+<a href="javascript:;" class="btn btn-left"></a>
+<a href="javascript:;" class="btn btn-right"></a>
+</div>
+</div>
+<div class="hideArea"></div>
+</div>
+<div class="floor zhibo-floor">
+<div class="title">
+<span class="border"></span>
+<h5>苏宁直播</h5>
+</div>
+<div class="content">
+<script>
+var zbJsonStr = '[{"type":-1,"id":1166,"no":1},{"type":-1,"id":1163,"no":2},{"type":-1,"id":1156,"no":3},{"type":0,"id":200178560218,"no":4},{"type":0,"id":200178560216,"no":5}]';
+</script>
+<ul>
+</ul>
+</div>
+</div>
+<div class="floor reco-floor" data-fullId="326196" data-tuijian="true">
+<div class="title">
+<span class="border"></span>
+<h5>猜你喜欢</h5>
+<p></p>
+</div>
+<div class="rec-content">
+<ul class="clearfix">
+</ul>
+<p class="end"><span class="line-left"></span>END<span class="line-right"></span></p>
+</div>
+</div>
+<div class="middle-one middle-floor">
+<a href="http://cuxiao.suning.com/newUser.html" target="_blank" name="index3_homepage1_32732513086_pic01">
+<img lazy-src="//image2.suning.cn/uimg/cms/img/148990849470028417.jpg" alt="新人">
+</a>
+</div>
+<input type="hidden" name="URLPattern" id="URLPattern" value="www.suning.com/homepage1.html">
+<div class="clear"></div>
+<div class="ng-footer">
+<textarea class="footer-dom" id="footer-dom-01">
+<div class="ng-ser-box">
+<div class="ng-ser-box-con">
+<div class="ng-promise">
+<dl>
+<dt class="zheng">正品保障</dt>
+<dd>
+<p><strong><a href="http://sale.suning.com/shfw/keepHeart1/index.html?relPro" target="_blank" rel="nofollow" name="public0_none_wb_fwxx01">正品保障</a></strong></p>
+<p>正品保障，提供发票</p>
+</dd>
+</dl>
+<dl>
+<dt class="jisu">急速物流</dt>
+<dd>
+<p><strong><a href="http://sale.suning.com/shfw/keepHeart1/index.html?halfDay" target="_blank" rel="nofollow" name="public0_none_wb_fwxx02">急速物流</a></strong></p>
+<p>急速物流，急速送达</p>
+</dd>
+</dl>
+<dl>
+<dt class="wuyou">无忧售后</dt>
+<dd>
+<p><strong><a href="http://sale.suning.com/shfw/keepHeart1/index.html?speed" target="_blank" rel="nofollow" name="public0_none_wb_fwxx03">无忧售后</a></strong></p>
+<p>7天无理由退换货</p>
+</dd>
+</dl>
+<dl>
+<dt class="te">特色服务</dt>
+<dd>
+<p><strong><a href="//vbuy.suning.com/vbuyCity.html" target="_blank" rel="nofollow" name="public0_none_wb_fwxx04">特色服务</a></strong></p>
+<p>私人定制家电套餐</p>
+</dd>
+</dl>
+<dl>
+<dt class="help">帮助中心</dt>
+<dd>
+<p><strong><a href="//help.suning.com/" target="_blank" rel="nofollow" name="public0_none_wb_fwxx05">帮助中心</a></strong></p>
+<p>您的购物指南</p>
+</dd>
+</dl>
+<div class="clear"></div>
+</div>
+<div class="ng-help-box">
+<dl>
+<dt name="public0_none_wb_bzxx01">购物指南</dt>
+<dd><a href="//help.suning.com/reg.htm" target="_blank" rel="nofollow" name="public0_none_wb_bzxx0101">导购演示</a></dd>
+<dd><a href="//help.suning.com/page/id-26.htm" target="_blank" rel="nofollow"name="public0_none_wb_bzxx0102">免费注册</a></dd>
+<dd><a href="//help.suning.com/page/channel-233.htm" target="_blank" rel="nofollow" name="public0_none_wb_bzxx0103">会员等级</a></dd>
+<dd><a href="//help.suning.com/faq/list.htm" target="_blank" rel="nofollow" name="public0_none_wb_bzxx0104">常见问题</a></dd>
+<dd><a href="//www.suning.com/pinpai/" target="_blank" name="public0_none_wb_bzxx0104">品牌大全</a></dd>
+</dl>
+<dl>
+<dt name="public0_none_wb_bzxx02">支付方式</dt>
+<dd><a href="//help.suning.com/page/id-14.htm" target="_blank" rel="nofollow" name="public0_none_wb_bzxx0201">易付宝支付</a></dd>
+<dd><a href="//help.suning.com/page/id-15.htm" target="_blank" rel="nofollow" name="public0_none_wb_bzxx0202">网银支付</a></dd>
+<dd><a href="//help.suning.com/page/id-18.htm" target="_blank" rel="nofollow" name="public0_none_wb_bzxx0203">快捷支付</a></dd>
+<dd><a href="//help.suning.com/page/id-136.htm" target="_blank" rel="nofollow" name="public0_none_wb_bzxx0204">分期付款</a></dd>
+<dd><a href="//help.suning.com/page/id-71.htm" target="_blank" rel="nofollow" name="public0_none_wb_bzxx0205">货到付款</a></dd>
+<dd><a href="//help.suning.com/page/id-628.htm" target="_blank" rel="nofollow" name="public0_none_wb_bzxx0206">任性付支付</a></dd>
+</dl>
+<dl>
+<dt name="public0_none_wb_bzxx03">物流配送</dt>
+<dd><a href="//help.suning.com/page/id-193.htm" target="_blank" rel="nofollow" name="public0_none_wb_bzxx0301">免运费政策</a></dd>
+<dd><a href="//help.suning.com/page/id-197.htm" target="_blank" rel="nofollow" name="public0_none_wb_bzxx0302">配送服务承诺</a></dd>
+<dd><a href="//help.suning.com/page/id-202.htm" target="_blank" rel="nofollow" name="public0_none_wb_bzxx0303">签收验货</a></dd>
+<dd><a href="//help.suning.com/page/id-204.htm" target="_blank" rel="nofollow" name="public0_none_wb_bzxx0304">物流查询</a></dd>
+</dl>
+<dl>
+<dt name="public0_none_wb_bzxx04">售后服务</dt>
+<dd><a href="//help.suning.com/page/id-205.htm" target="_blank" rel="nofollow" name="public0_none_wb_bzxx0401">退换货政策</a></dd>
+<dd><a href="//help.suning.com/page/id-287.htm" target="_blank" rel="nofollow" name="public0_none_wb_bzxx0402">退换货流程</a></dd>
+<dd><a href="//baoxian.suning.com/ins/jiaDian.htm" target="_blank" rel="nofollow" name="public0_none_wb_bzxx0403">购买延保服务</a></dd>
+<dd><a href="//help.suning.com/page/id-290.htm" target="_blank" rel="nofollow" name="public0_none_wb_bzxx0404">退款说明</a></dd>
+<dd><a href="//assss.suning.com/assss-web/pc/returnGoods/toAfterSaleApplyList.do" target="_blank" rel="nofollow" name="public0_none_wb_bzxx0405">退换货申请</a></dd>
+<dd><a href="//assss.suning.com/assss-web/pc/returnGoods/toAfterSaleApplyList.do" target="_blank" rel="nofollow" name="public0_none_wb_bzxx0406">维修/保养</a></dd>
+</dl>
+<dl>
+<dt name="public0_none_wb_bzxx05">商家服务</dt>
+<dd><a href="//sop.suning.com/" target="_blank" rel="nofollow" name="public0_none_wb_bzxx0501">商家入驻</a></dd>
+<dd><a href="http://stc.suning.com/" target="_blank" rel="nofollow" name="public0_none_wb_bzxx0502">培训中心</a></dd>
+<dd><a href="//ap.suning.com" target="_blank" rel="nofollow" name="public0_none_wb_bzxx0504">广告服务</a></dd>
+<dd><a href="//sop.suning.com/sel/help/toMain.htm" target="_blank" rel="nofollow" name="public0_none_wb_bzxx0505">商家帮助</a></dd>
+<dd><a href="//fuwu.suning.com" target="_blank" rel="nofollow" name="public0_none_wb_bzxx0506">服务市场</a></dd>
+</dl>
+</div>
+<div class="ng-app-down">
+<p>易购客户端</p>
+<a href="//cuxiao.suning.com/newUser.html" rel="nofollow" target="_blank">
+<img src="//res.suning.cn/public/v3/images/app-down.jpg?var=08" alt="苏宁易购APP二维码" height="87" width="87" />
+</a>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+<div class="ng-new-pro">
+<div class="ng-new-pro-con">
+<div class="ng-new-pro-list">
+<dl>
+<dt>
+<a href="//b.suning.com" name="public0_none_wb_xcp01" rel="nofollow" target="_blank"><img src="//res.suning.cn/public/v3/images/f1.jpg?v=02" height="80" width="80" /></a>
+</dt>
+<dd>
+<p class="ng-title"><a href="//b.suning.com" name="public0_none_wb_xcp01" target="_blank" rel="nofollow">企业采购</a></p>
+<p class="ng-intro"><a href="//b.suning.com" name="public0_none_wb_xcp01" target="_blank" rel="nofollow">致力于让企业采购变得阳光，高效，简单。为企业用户提供一站式的本地化采购服务解决方案。</a></p>
+</dd>
+</dl>
+<dl>
+<dt>
+<a href="//sncs.suning.com/" target="_blank" rel="nofollow" name="public0_none_wb_xcp02"><img src="//res.suning.cn/public/v3/images/f2.png?v=01" height="80" width="80" /></a>
+</dt>
+<dd>
+<p class="ng-title"><a href="//sncs.suning.com/" target="_blank" rel="nofollow" name="public0_none_wb_xcp02">苏宁众包</a></p>
+<p class="ng-intro"><a href="//sncs.suning.com/" target="_blank" rel="nofollow" name="public0_none_wb_xcp02">以苏宁全渠道包销为主要特点，整合全社会众包资源，扶持创新企业，推广创新产品。</a></p>
+</dd>
+</dl>
+</div>
+<div class="ng-serch-suning">
+<dl>
+<dt></dt>
+<dd>
+<p class="ng-title">身边苏宁</p>
+<p class="ng-intro">全国300个城市1600家门店3000个服务点为您提供最贴心的服务！</p>
+<a href="//vbuy.suning.com/vbuyCity.html" target="_blank" class="srh-btn" name="public0_none_wb_xcp03"></a>
+</dd>
+</dl>
+</div>
+<div class="footer-egg-con"></div>
+</div>
+<div class="footer-egg-btn"></div>
+</div>
+</textarea>
+<textarea class="footer-dom" id="footer-dom-02">
+<div class="ng-s-footer">
+<div class="ng-s-f-con">
+<p class="ng-url-list">
+<a href="http://www.suningholdings.com/" target="_blank" name="public0_none_wb_yqlj0114">苏宁控股</a><span>|</span>
+<a href="http://www.suning.cn/" target="_blank" name="public0_none_wb_yqlj0101">苏宁云商</a><span>|</span>
+<a href="//10035.suning.com/" target="_blank" name="public0_none_wb_yqlj0102" rel="nofollow">苏宁互联</a><span>|</span>
+<a href="//jinrong.suning.com/" target="_blank" name="public0_none_wb_yqlj0111" rel="nofollow">苏宁金融</a><span>|</span>
+<a href="https://passport.suning.com/ids/trustLogin?sysCode=epp&targetUrl=https://pay.suning.com/epp-epw/login/login.action" rel="nofollow" target="_blank" name="public0_none_wb_yqlj0103">易付宝</a><span>|</span>
+<a href="//www.pptv.com?rcc_id=snyg" target="_blank" name="public0_none_wb_yqlj0105" rel="nofollow">PPTV</a><span>|</span>
+<a href="//redbaby.suning.com/" target="_blank" name="public0_none_wb_yqlj0106" rel="nofollow">红孩子</a><span>|</span>
+<a href="//laox.suning.com/" target="_blank" name="public0_none_wb_yqlj0108" rel="nofollow">乐购仕</a><span>|</span>
+<a href="//wuliu.suning.com/" target="_blank" name="public0_none_wb_yqlj0111" rel="nofollow">苏宁物流</a><span>|</span>
+<a href="//cuxiao.suning.com/newUser.html" target="_blank" name="public0_none_wb_yqlj0111">手机苏宁</a><span>|</span>
+<a href="http://www.suninghotel.com/" target="_blank" name="public0_none_wb_yqlj0112">苏宁酒店</a><span>|</span>
+<a href="//ipp.suning.com/" target="_blank" name="public0_none_wb_yqlj0113">知识产权举报</a>
+</p>
+<p class="ng-url-list">
+<a href="http://club.suning.com/hr/aboutus.html" target="_blank" name="public0_none_wb_yqlj0201" rel="nofollow">关于苏宁易购</a><span>|</span>
+<a href="//help.suning.com/page/id-469.htm" target="_blank" name="public0_none_wb_yqlj0202" rel="nofollow">联系我们</a><span>|</span>
+<a href="http://careers.suning.cn" target="_blank" name="public0_none_wb_yqlj0203" rel="nofollow">诚聘英才</a><span>|</span>
+<a href="//sop.suning.com/" target="_blank" name="public0_none_wb_yqlj0204" rel="nofollow">供应商入驻</a><span>|</span>
+<a href="//ap.suning.com/" target="_blank" name="public0_none_wb_yqlj0204" rel="nofollow">广告平台</a><span>|</span>
+<a href="//union.suning.com/" target="_blank" name="public0_none_wb_yqlj0205" rel="nofollow">苏宁联盟</a><span>|</span>
+<a href="http://zb.suning.com/" target="_blank" name="public0_none_wb_yqlj0206" rel="nofollow">苏宁招标</a><span>|</span>
+<a href="http://sums.suning.com/aas/links.html" target="_blank" name="public0_none_wb_yqlj0207">友情链接</a><span>|</span>
+<a href="//help.suning.com/page/id-281.htm" target="_blank" name="public0_none_wb_yqlj0208" rel="nofollow">法律申明</a><span>|</span>
+<a href="//ued.suning.com/survey/" target="_blank" name="public0_none_wb_yqlj0209" rel="nofollow">用户体验提升计划</a><span>|</span>
+<a href="//mrs.suning.com/mrs-web/stockholder/check.htm" target="_blank" name="public0_none_wb_yqlj0209" rel="nofollow">股东会员认证</a>
+</p>
+<p class="ng-copyright">
+Copyright© 2002-2017 ，苏宁云商集团股份有限公司版权所有
+<a href="http://www.miitbeian.gov.cn" target="_blank" style="color:#999">苏ICP备10207551号-4</a><span>|</span>
+<a href="//res.suning.cn/public/v3/images/SUB1-20130131.png" target="_blank" rel="nofollow" style="color:#999">苏B1-20130131</a><span>|</span>
+<a href="//res.suning.cn/public/v3/images/SUB2-20130376.png" target="_blank" rel="nofollow" style="color:#999">苏B2-20130376</a></p>
+<p class="ng-copyright ng-copyright-2">
+<a href="//res.suning.cn/public/v3/images/SUB2-20130391.png" target="_blank" rel="nofollow" style="color:#999">苏B2-20130391</a>
+出版物经营许可证新出发苏批字第A-243号<span>|</span>
+互联网药品信息服务资格证书<a href="//res.suning.cn/public/v3/images/yaopin_content.jpg" target="_blank" rel="nofollow" style="color:#999">（苏）-非经营性-2016-0005</a></p>
+</p>
+<p class="ng-copyright">本网站直接或间接向消费者推销商品或者服务的商业宣传均属于“广告”（包装及参数、售后保障等商品信息除外）</p>
+<div class="ng-authentication">
+<a href="https://search.szfw.org/cert/l/CX20111018000608000610" target="_blank" name="public0_none_wb_zs0302" rel="nofollow">
+<img src="//res.suning.cn/public/v3/images/chengxin.png" height="24" width="76" alt="诚信网站">
+</a>
+<a href="http://image.suning.cn/uimg/snnet/snnetImg/142891196680527240.jpg" target="_blank" name="public0_none_wb_zs0303" rel="nofollow">
+<img src="//res.suning.cn/public/v3/images/unicom.png" height="24" width="76" alt="中国联通授权网络经营代理商">
+</a>
+<a href="//res.suning.cn/public/v3/images/dianxin_content.jpg" target="_blank" name="public0_none_wb_zs0304" rel="nofollow">
+<img src="//res.suning.cn/public/v3/images/dianxin.jpg" height="24" width="76" alt="中国电信授权网络经营代理商">
+</a>
+<a href="http://odr.jsdsgsxt.gov.cn:8081/mbm/entweb/elec/certView.shtml?siteId=27cfad762f3d45069d79a9f8f83f458f" target="_blank" rel="nofollow" name="public0_none_wb_zs0303">
+<img src="//res.suning.cn/public/v3/images/dianzi.png?v=02" height="24" width="76" alt="电子营业执照">
+</a>
+</div>
+</div>
+</div>
+</textarea>
+<!--top fix bar [[-->
+<div class="ng-fix-bar"></div>
+<!--top fix bar ]]-->
+</div>
+<script type="text/javascript" src="//res.suning.cn/??public/v3/js/jquery.js,project/cmsWeb/suning/publicres/js/getprice.js,public/v5/js/wora/app.js,project/passport/js/passport.js?2017040103"></script>
+<script>
+var sa;if(!sa){sa={}}if(!sa.click){sa.click={}}(function(){var u=/\.suning\.com/,t=document.location.hostname,h=(("https:"==document.location.protocol)?"https://":"http://"),p=i(),b="|",c=location.href,n=m(q(c));function r(aa,N){try{var Z=aa.name?m(aa.name):"name undefined";if(Z=="name undefined"){var ab=aa.attributes.name;if(ab!=undefined&&ab!=null){Z=ab.value?m(ab.value):"name undefined"}}if(N!=undefined&&N!=null&&N!=""){var K=aa.attributes[N];if(K!=undefined&&K!=null){Z=K.value?m(K.value):N+" undefined"}}var O=aa.id?m(aa.id):"id undefined",R=new Array(),A=(f(aa,R),R)?m(R.join("").replace(/\s|\|/ig,"")):"text undefined",U=(U=document.getElementById("resourceType"))?U.value:"",B=O+b+Z+b+A,S=(S=document.getElementById("errorCode"))?S.value:"",X=h+p+"/ajaxClick.gif",z=v(),k="_snck";l(k,z,"/","","");var Y=d();var E=typeof sn=="object"?sn.cityId:"can not get cityId",J=z+b+Y+b+B+b+n,W=aa.href?aa.href:"",I=(W?x(W):"-"),L=document.getElementById("URLPattern"),Q=(L?L.value:"");var D="";var G=o("logonStatus");if(G!=undefined&&G!=null){D=G}var F="";var j=o("_snma");if(j!=undefined&&j!=null&&j.indexOf("|")>=0){try{F=j.split("|")[1]}catch(V){}}var C="";var y=o("idsLoginUserIdLastTime");if(y!=undefined&&y!=null){C=y}var T="";var P=o("custno");if(P!=undefined&&P!=null){T=P}var M="";var ac=o("_snmb");if(ac!=undefined&&ac!=null&&ac.indexOf("|")>=0){try{M=ac.split("|")[0]}catch(V){}}var H=X+"?_snmk="+J+"&_snme="+S+"&_type="+U+"&_cId="+E+"&_sid="+I+"&urlPattern="+Q+"&vid="+F+"&lu="+C+"&sid="+M+"&mid="+T+"&ls="+D;w(H)}catch(V){}}function d(){if(!sa.pvId){sa.pvId=v()}return sa.pvId}function v(){try{var k=new Date(),j=Math.round(100000*Math.random()),z=k.getTime().toString().concat(j);return z}catch(y){}}function o(k){var j=document.cookie.split("; ");for(var y=0;y<j.length;y++){var z=j[y].split("=");if(z[0]==k){return unescape(z[1])}}}function w(j){var y="log_"+(new Date()).getTime();var k=window[y]=new Image();k.onload=(k.onerror=function(){window[y]=null});k.src=j+"&iId="+y;k=null}function i(){if(u.test(t)){return"click.suning.cn/sa"}else{return"clicksit.suning.cn/sa"}}function e(){return document.domain}function l(k,j,D,C,B){try{var A=k+"="+escape(j);if(C!=""){var z=new Date();z.setTime(z.getTime()+C);A+=";expires="+z.toGMTString()}if(D!=""){A+=";path="+D}var y=e();if(y.indexOf(".suning.com")!=-1){A+=";domain=.suning.com"}else{if(y.indexOf(".cnsuning.com")!=-1){A+=";domain=.cnsuning.com"}else{A+=";domain="+B}}document.cookie=A}catch(B){}}function x(k){var j="-";if(!a(k)){j=g(k,"tid","&")}return j}function q(j){try{if(j.length>301){j=j.substring(0,300)}while(j.indexOf(b)!=-1){j=j.replace(b,"--")}return j}catch(k){}}function f(z,k){try{if(z.nodeType==3){k.push(z.nodeValue)}else{if(z.nodeType==1){for(var j=z.firstChild;j!=null;j=j.nextSibling){f(j,k)}}}}catch(y){}}function m(j){return j!=null?encodeURIComponent(j):""}function g(y,k,B){try{var A="-",j;if(!a(y)&&!a(k)&&!a(B)){j=y.indexOf(k);if(j>-1){var z=y.indexOf(B,j);if(z<0){z=y.length}A=y.substring(j+k.length+1,z)}}return A}catch(z){}}function a(j){return(undefined==j||""==j||"-"==j)}var s=sa.click;s.sendDatasIndex=r})();
+$(document).ready(function(){
+$("a[name^=index],h5[name^=index],h4[name^=index],h3[name^=index],h2[name^=index],h1[name^=index],li[name^=index],div[name^=index],label[name^=index],input[name^=index],span[name^=index]").live("click",function(){
+try {
+sa.click.sendDatasIndex(this);
+} catch(e){
+}
+});
+})
+</script>
+<script type="text/javascript">
+function _getJsFilePath(js_file){
+var _hostName = document.location.hostname;
+// 一般生产环境的域名
+var _prd_reg = /^\w*?.suning.com$/;
+// 一般pre环境的域名
+var _pre_reg = /^\w*?pre.cnsuning.com$/;
+// 一般sit环境的域名
+var _sit_reg = /^\w*?sit.cnsuning.com$/;
+var sa_src = "";
+if(_prd_reg.test(_hostName)){
+sa_src = ("https:" == document.location.protocol) ? "https://imgssl.suning.com" : "http://script.suning.cn";
+} else if(_pre_reg.test(_hostName)){
+sa_src = ("https:" == document.location.protocol) ? "https://preimgssl.suning.com" : "http://prescript.suning.cn";
+} else if(_sit_reg.test(_hostName)){
+sa_src = ("https:" == document.location.protocol) ? "https://sit1imgssl.suning.com" : "http://sit1script.suning.cn";
+} else {
+sa_src = ("https:" == document.location.protocol) ? "https://preimgssl.suning.com" : "http://prescript.suning.cn";
+}
+sa_src = sa_src + "/javascript/sn_da/"+js_file;
+return sa_src;
+}
+var isArray = function(obj) {
+return Object.prototype.toString.call(obj) === '[object Array]';
+}
+var windowOnLoadEventQueue = [];
+var scriptOnLoadEventQueue = [];
+window.onload = function() {
+for ( var aFunc in windowOnLoadEventQueue) {
+windowOnLoadEventQueue[aFunc]();
+}
+}
+function addOnLoad(func) {
+windowOnLoadEventQueue = windowOnLoadEventQueue.concat(func);
+}
+var lazyScriptMap = {};
+function lazyLoadScript(src, callback) {
+if (!lazyScriptMap[src]) {
+lazyScriptMap[src] = callback;
+var scriptNode = document.createElement("script");
+if ('function' === typeof callback) {
+if (!/msie/i.test(navigator.userAgent.toLowerCase())) {
+scriptNode.onload = callback;
+}
+scriptNode.onreadystatechange = function() {
+if ("loaded" == scriptNode.readyState
+|| "complete" == scriptNode.readyState) {
+callback();
+}
+}
+} else if (isArray(callback)) {
+var callbackSequence = function() {
+for ( var i = 0; i < callback.length; i++) {
+(callback[i])();
+}
+};
+scriptNode.onload = callbackSequence;
+scriptNode.onreadystatechange = function() {
+if ("loaded" == scriptNode.readyState
+|| "complete" == scriptNode.readyState) {
+callbackSequence();
+}
+}
+}
+scriptNode.type = "text/javascript";
+scriptNode.src = src;
+var scriptContainer = document.getElementsByTagName("head")[0];
+scriptContainer.appendChild(scriptNode);
+} else {
+}
+}
+function lazyLoadScripts(srcs, callback) {
+var srcNum = srcs.length;
+var loadingProgress = 0;
+if (srcNum > 0) {
+for ( var i = 0; i < srcNum; i++) {
+var currSrc = srcs[i];
+lazyLoadScript(currSrc, function() {
+loadingProgress++;
+if (srcNum == loadingProgress) {
+if ('function' === typeof callback) {
+callback();
+} else if (isArray(callback)) {
+for ( var i = 0; i < callback.length; i++) {
+(callback[i])();
+}
+}
+}
+});
+}
+}
+}
+var isTimeout = false;
+var lazyLoadFunction = null;
+var lazyScriptLoaded = false;
+var lazyScriptTimeout = 3000;
+lazyloadBindingFuc = function() {
+}
+lazyLoadFunction = function() {
+if (lazyScriptLoaded && isTimeout) {
+lazyLoadScript(_getJsFilePath("da_opt.js"));
+return;
+}
+lazyScriptLoaded = true;
+if (isTimeout) {
+lazyLoadScript(
+"//res.suning.cn/public/v3/js/search.min.js?2017040103",
+function() {
+lazyLoadScript("//res.suning.cn/public/v3/js/SFE.base.min.js?2017040103",
+function(){
+lazyLoadScript("//res.suning.cn/project/cmsWeb/suning/homepage/v1/js/a_load_m_g.js?2017040103",
+function (){
+lazyLoadScript("//res.suning.cn/project/cmsWeb/suning/homepage/v1/js/a_load_t_pv.js?2017040103",
+function(){
+lazyLoadScript("//res.suning.cn/public/v3/js/lazyelem.min.js?2017040103",
+function() {
+lazyLoadScript("//res.suning.cn/project/cmsWeb/suning/homepage/v6/js/index.js?2017040103",
+function() {
+lazyLoadScript("//res.suning.cn/public/sidebar/build/js/sn-sidebar.min.js?2017040103",
+function() {
+lazyLoadScript("//res.suning.cn/project/yunxin/js/chatCompat_mini.js?2017040103",
+function() {
+lazyLoadScript(_getJsFilePath("da_opt.js"));
+});
+});
+});
+});
+});
+});
+});
+});
+} else {
+lazyLoadScript(
+"//res.suning.cn/public/v3/js/search.min.js?2017040103",
+function() {
+lazyLoadScript("//res.suning.cn/public/v3/js/SFE.base.min.js?2017040103",
+function(){
+lazyLoadScript("//res.suning.cn/project/cmsWeb/suning/homepage/v1/js/a_load_m_g.js?2017040103",
+function (){
+lazyLoadScript("//res.suning.cn/project/cmsWeb/suning/homepage/v1/js/a_load_t_pv.js?2017040103",
+function(){
+lazyLoadScript("//res.suning.cn/public/v3/js/lazyelem.min.js?2017040103",
+function() {
+lazyLoadScript("//res.suning.cn/project/cmsWeb/suning/homepage/v6/js/index.js?2017040103",
+function() {
+lazyLoadScript("//res.suning.cn/public/sidebar/build/js/sn-sidebar.min.js?2017040103",
+function() {
+lazyLoadScript("//res.suning.cn/project/yunxin/js/chatCompat_mini.js?2017040103",
+function() {
+lazyLoadScript(_getJsFilePath("da_opt.js"));
+});
+});
+});
+});
+});
+});
+});
+});
+}
+}
+addOnLoad(lazyloadBindingFuc);
+addOnLoad(lazyLoadFunction);
+function checkLazyScriptTimeout() {
+isTimeout = true;
+if (!lazyScriptLoaded) {
+if (!!lazyLoadFunction) {
+lazyLoadFunction();
+} else {
+setTimeout(checkLazyScriptTimeout, 1000);
+}
+}
+}
+setTimeout(checkLazyScriptTimeout, lazyScriptTimeout);
+</script>
+</body>
+</html>
